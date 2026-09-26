@@ -1,0 +1,6 @@
+project_id = "repositorio-academico"
+
+[functions.serve-document]
+# La función valida el JWT con auth.getUser(); no se omite la autenticación.
+# Permite claves publishable modernas sin depender del verificador JWT heredado.
+verify_jwt = false

@@ -1,0 +1,5 @@
+# Agregar estas dos lineas al .env existente SOLO si quieres cambiar defaults.
+# No reemplazar SUPABASE_URL, SUPABASE_SECRET_KEY ni OBSIDIAN_VAULT_PATH.
+# Las comillas simples evitan escapes en rutas de Windows.
+OBSIDIAN_EXPORT_PATH='C:\Users\USUARIO\Desktop\Bobeda\obsidian-export-x86_64-pc-windows-msvc\obsidian-export.exe'
+OBSIDIAN_PDF_OUTPUT='C:\Users\USUARIO\Desktop\Bobeda\PDFs'

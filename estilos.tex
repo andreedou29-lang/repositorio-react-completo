@@ -1,0 +1,16 @@
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\let\l\relax
+\let\t\relax
+\let\r\relax
+\tcbuselibrary{breakable,skins}
+\definecolor{CalloutBlue}{HTML}{236A9B}
+\definecolor{CalloutGray}{HTML}{526170}
+\definecolor{CalloutAmber}{HTML}{A66108}
+\definecolor{CalloutPurple}{HTML}{7252A1}
+\definecolor{CalloutGreen}{HTML}{277C64}
+\tcbset{obsidiancallout/.style={
+  enhanced,breakable,boxrule=0.5pt,arc=1.5mm,
+  left=3mm,right=3mm,top=2mm,bottom=2mm,
+  fonttitle=\bfseries,before skip=10pt,after skip=10pt
+}}
