@@ -1,8 +1,10 @@
 node_modules/
 dist/
+__pycache__/
 .env
 .env.*
 !.env.example
 *.tsbuildinfo
 .supabase/
+supabase/.temp/cli-latest
 .DS_Store
