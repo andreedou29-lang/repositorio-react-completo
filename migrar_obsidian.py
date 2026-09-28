@@ -217,17 +217,17 @@ class Migrador:
         rel_folder = nota.relative_to(self.config.vault).parent.as_posix()
         folder_id = self.resolve_folder_id(rel_folder)
         query = self.client.table("documents").select("id,storage_path,folder_id").eq("original_name", nota.name)
-existing = one_or_none(eq_or_is_null(query, "folder_id", folder_id).limit(2).execute(), f"nota {nota.name}")
+        existing = one_or_none(eq_or_is_null(query, "folder_id", folder_id).limit(2).execute(), f"nota {nota.name}")
 
-if existing is None:
-    globales = self.client.table("documents").select("id,storage_path,folder_id").eq("original_name", nota.name).limit(2).execute().data or []
-    if len(globales) == 1:
-        existing = globales[0]
-        print(f"[MOVIMIENTO] {nota.name}: reutilizando document_id={existing['id']}", flush=True)
-    elif len(globales) > 1:
-        raise RuntimeError(f"Movimiento ambiguo: existen {len(globales)} documentos llamados {nota.name}. No se crea duplicado.")
+        if existing is None:
+            globales = self.client.table("documents").select("id,storage_path,folder_id").eq("original_name", nota.name).limit(2).execute().data or []
+            if len(globales) == 1:
+                existing = globales[0]
+                print(f"[MOVIMIENTO] {nota.name}: reutilizando document_id={existing['id']}", flush=True)
+            elif len(globales) > 1:
+                raise RuntimeError(f"Movimiento ambiguo: existen {len(globales)} documentos llamados {nota.name}. No se crea duplicado.")
 
-doc_id = existing["id"] if existing else str(uuid.uuid4())
+        doc_id = existing["id"] if existing else str(uuid.uuid4())
 
         # Solo los PDF usan rutas de revision; storage_path del Markdown debe
         # respetar la restriccion canonical_storage_path del proyecto.

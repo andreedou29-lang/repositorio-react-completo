@@ -354,6 +354,21 @@ def convertir_nota(vault: Path, nota: Path, salida: Path,
         print("[2/3] Preparando imagenes y contenido matematico...", flush=True)
         ejecutar([pandoc, str(exportado), "--from=markdown-implicit_figures", "--to=json", "--output", str(ast)], trabajo, registro)
         documento = json.loads(ast.read_text(encoding="utf-8"))
+
+        def corregir_unicode(obj):
+            if isinstance(obj, str):
+                return (
+                    obj.replace("∂", r"\partial ")
+                       .replace("⋅", r"\cdot ")
+                       .replace("≠", r"\ne ")
+                )
+            if isinstance(obj, list):
+                return [corregir_unicode(x) for x in obj]
+            if isinstance(obj, dict):
+                return {k: corregir_unicode(v) for k, v in obj.items()}
+            return obj
+
+        documento = corregir_unicode(documento)
         cantidad, enlaces = preparar_imagenes(documento, nota, vault)
         macros = extraer_macros(documento)
         ast.write_text(json.dumps(documento, ensure_ascii=False), encoding="utf-8")
@@ -419,6 +434,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 
 
 
