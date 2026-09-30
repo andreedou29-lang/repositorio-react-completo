@@ -1,0 +1,236 @@
+﻿/* RESET TOTAL DE ANCHO Y ESPACIOS */
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100vw !important;
+  max-width: 100vw !important;
+  min-height: 100vh !important;
+  background-color: #0f141c !important;
+  color: #e2e8f0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  overflow-x: hidden !important;
+}
+
+/* CONTENEDOR PRINCIPAL AL 100% SÍN MARGEN IZQUIERDO */
+.app-shell, .main-pane {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: radial-gradient(circle at 50% 0%, #1e2836 0%, #0a0e14 100%) !important;
+  min-height: 100vh !important;
+}
+
+/* BANDA SUPERIOR EN TITANIO PULIDO */
+.topbar {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100% !important;
+  padding: 0.85rem 2rem !important;
+  background: linear-gradient(180deg, #2c3848 0%, #161d26 100%) !important;
+  border-bottom: 2px solid #4a5a70 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7) !important;
+  box-sizing: border-box !important;
+}
+
+.topbar-label {
+  color: #94a3b8 !important;
+  font-size: 0.9rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+}
+
+.topbar-label strong {
+  color: #ffffff !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.4) !important;
+}
+
+.topbar-actions {
+  display: flex !important;
+  align-items: center !important;
+  gap: 1rem !important;
+}
+
+.topbar-actions button {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  padding: 0.5rem 1rem !important;
+  background: linear-gradient(145deg, #3d4c5e, #232d38) !important;
+  border: 1px solid #64748b !important;
+  border-radius: 8px !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+}
+
+/* ÁREA PRINCIPAL SIN ESPACIOS VACÍOS */
+.metallic-wrapper {
+  width: 100% !important;
+  padding: 2rem !important;
+  box-sizing: border-box !important;
+}
+
+/* BREADCRUMBS / NAVEGACIÓN CROMADA */
+.metallic-nav-bar {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.75rem !important;
+  margin-bottom: 2rem !important;
+  background: linear-gradient(145deg, #1e2733, #121820) !important;
+  padding: 0.85rem 1.25rem !important;
+  border-radius: 12px !important;
+  border: 1px solid #3b495e !important;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.15), 0 4px 12px rgba(0, 0, 0, 0.6) !important;
+  flex-wrap: wrap !important;
+}
+
+.btn-metallic-back {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4rem !important;
+  background: linear-gradient(145deg, #4b5b70, #2c3848) !important;
+  color: #ffffff !important;
+  border: 1px solid #64748b !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 8px !important;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4) !important;
+}
+
+.btn-metallic-back:hover {
+  background: linear-gradient(145deg, #64748b, #3b495e) !important;
+  border-color: #cbd5e1 !important;
+}
+
+.trail-item {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 0.45rem 0.9rem !important;
+  background: linear-gradient(145deg, #2d3949, #19212b) !important;
+  border: 1px solid #4a5a70 !important;
+  border-radius: 8px !important;
+  color: #cbd5e1 !important;
+  font-size: 0.85rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+  cursor: pointer !important;
+}
+
+.trail-item.active {
+  background: linear-gradient(145deg, #f1f5f9 0%, #94a3b8 100%) !important;
+  color: #0f172a !important;
+  border-color: #ffffff !important;
+  font-weight: 800 !important;
+  box-shadow: 0 0 12px rgba(241, 245, 249, 0.4) !important;
+}
+
+/* RETÍCULA EN CUADRÍCULA 3 COLUMNAS STRICT (3x3) */
+.section-title-metallic {
+  font-size: 1.1rem !important;
+  font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.5px !important;
+  color: #e2e8f0 !important;
+  margin-bottom: 1.25rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 2px solid #2d3949 !important;
+}
+
+.grid-3x3 {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 1.5rem !important;
+  width: 100% !important;
+}
+
+@media (max-width: 900px) {
+  .grid-3x3 {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-3x3 {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* TARJETAS CON ASPECTO DE TITANIO / METAL PULIDO */
+.card-metallic {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 1.6rem 1rem !important;
+  min-height: 130px !important;
+  background: linear-gradient(145deg, #2b3746 0%, #171f29 100%) !important;
+  border: 1px solid #4a5a70 !important;
+  border-radius: 14px !important;
+  cursor: pointer !important;
+  position: relative !important;
+  overflow: hidden !important;
+  transition: all 0.25s ease !important;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 6px 16px rgba(0, 0, 0, 0.5) !important;
+  text-align: center !important;
+}
+
+.card-metallic:hover {
+  transform: translateY(-4px) !important;
+  border-color: #cbd5e1 !important;
+  background: linear-gradient(145deg, #3a4b5f 0%, #202b3a 100%) !important;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 10px 25px rgba(0, 0, 0, 0.7), 0 0 18px rgba(203, 213, 225, 0.2) !important;
+}
+
+.card-metallic.selected-doc {
+  border-color: #ffffff !important;
+  background: linear-gradient(145deg, #4b5b70 0%, #2a3646 100%) !important;
+  box-shadow: 0 0 22px rgba(255, 255, 255, 0.25) !important;
+}
+
+.icon-box-metallic {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 54px !important;
+  height: 54px !important;
+  border-radius: 12px !important;
+  background: linear-gradient(145deg, #151d27, #2c3848) !important;
+  border: 1px solid #4a5a70 !important;
+  margin-bottom: 0.85rem !important;
+  color: #e2e8f0 !important;
+}
+
+.title-metallic {
+  font-size: 1.05rem !important;
+  font-weight: 700 !important;
+  color: #f8fafc !important;
+  line-height: 1.3 !important;
+  word-break: break-word !important;
+}
+
+.badge-metallic {
+  margin-top: 0.6rem !important;
+  font-size: 0.7rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 1px !important;
+  padding: 0.2rem 0.6rem !important;
+  background: #0a0e14 !important;
+  color: #cbd5e1 !important;
+  border: 1px solid #334155 !important;
+  border-radius: 6px !important;
+}
+
+/* LECTOR DE DOCUMENTO */
+.reader-metallic-panel {
+  margin: 1.5rem 2rem 3rem 2rem !important;
+  background: linear-gradient(180deg, #171f29 0%, #0d121a 100%) !important;
+  border: 1px solid #3b495e !important;
+  border-radius: 16px !important;
+  padding: 2rem !important;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.7) !important;
+}

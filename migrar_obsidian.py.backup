@@ -84,36 +84,12 @@ class Migrador:
         self.client = client
         self.config = config
         self.converter = converter
-        root_rows = (
-            self.client
-            .table("folders")
-            .select("id,name,parent_id")
-            .is_("parent_id", "null")
-            .execute()
-            .data
-            or []
-        )
-
-        roots = [
-            r for r in root_rows
-            if str(r.get("name", "")).casefold() == "andre"
-        ]
-
-        if len(roots) != 1:
-            raise RuntimeError(
-                f"Debe existir exactamente una carpeta raiz Andre. Encontradas: {len(roots)}"
-            )
-
-        self.folder_map = {
-            ".": roots[0]["id"],
-            "": roots[0]["id"],
-        }
+        self.folder_map = {".": None, "": None}
         self.image_index = None
         self.image_cache = {}
         self.images_bucket_checked = False
         self.validar_fuente = lambda: None
         self.ultimo_documento = None
-        self.forzar = False
 
     def comprobar(self):
         """Solo lectura: valida programas, columnas y buckets antes de compilar."""
@@ -233,137 +209,11 @@ class Migrador:
             )
 
         source = nota.read_bytes()
+        raw = source.decode("utf-8-sig")
 
-        if not source.strip():
+        if not raw.strip():
             print(f"[OMITIDA] Nota vacia: {nota}", flush=True)
             return None
-
-        source_sha256 = hashlib.sha256(source).hexdigest()
-        source_rel_path = nota.relative_to(self.config.vault).as_posix()
-        rel_folder = nota.relative_to(self.config.vault).parent.as_posix()
-        folder_id = self.resolve_folder_id(rel_folder)
-
-        # Primero buscamos por identidad del archivo.
-        query = (
-            self.client
-            .table("documents")
-            .select("id,storage_path,folder_id,source_sha256,source_rel_path")
-            .eq("source_sha256", source_sha256)
-        )
-
-        existing = one_or_none(
-            query.limit(2).execute(),
-            f"SHA {nota.name}"
-        )
-
-        # Compatibilidad con documentos antiguos que aun no tienen SHA.
-        if existing is None:
-            query = (
-                self.client
-                .table("documents")
-                .select("id,storage_path,folder_id,source_sha256,source_rel_path")
-                .eq("original_name", nota.name)
-            )
-            existing = one_or_none(
-                eq_or_is_null(query, "folder_id", folder_id)
-                .limit(2)
-                .execute(),
-                f"nota antigua {nota.name}"
-            )
-
-        # Documento antiguo sin SHA:
-        # lo asociamos al SHA actual SIN volver a subirlo.
-        if (
-            existing
-            and not self.forzar
-            and not existing.get("source_sha256")
-        ):
-            doc_id = existing["id"]
-
-            payload = {
-                "title": nota.stem,
-                "original_name": nota.name,
-                "extension": "md",
-                "size_bytes": len(source),
-                "content": source.decode("utf-8-sig"),
-                "folder_id": folder_id,
-                "source_sha256": source_sha256,
-                "source_rel_path": source_rel_path,
-            }
-
-            response = (
-                self.client
-                .table("documents")
-                .update(payload)
-                .eq("id", doc_id)
-                .execute()
-            )
-
-            if not response.data:
-                raise RuntimeError(
-                    "No se pudo asociar el SHA al documento existente."
-                )
-
-            self.ultimo_documento = {
-                "id": doc_id,
-                **payload,
-                "storage_path": existing.get("storage_path"),
-            }
-
-            print(
-                f"[REUBICADO/REGISTRADO] {nota.name} | document_id={doc_id}",
-                flush=True,
-            )
-            return doc_id
-
-        # Documento existente y contenido sin cambios:
-        # SOLO actualizar estructura/metadatos.
-        if (
-            existing
-            and not self.forzar
-            and existing.get("source_sha256") == source_sha256
-        ):
-            doc_id = existing["id"]
-
-            payload = {
-                "title": nota.stem,
-                "original_name": nota.name,
-                "extension": "md",
-                "size_bytes": len(source),
-                "content": source.decode("utf-8-sig"),
-                "folder_id": folder_id,
-                "source_sha256": source_sha256,
-                "source_rel_path": source_rel_path,
-            }
-
-            response = (
-                self.client
-                .table("documents")
-                .update(payload)
-                .eq("id", doc_id)
-                .execute()
-            )
-
-            if not response.data:
-                raise RuntimeError(
-                    "No se pudo actualizar la ubicacion del documento."
-                )
-
-            self.ultimo_documento = {
-                "id": doc_id,
-                **payload,
-                "storage_path": existing.get("storage_path"),
-            }
-
-            print(
-                f"[SIN SUBIDA] {nota.name} | documento sin cambios",
-                flush=True,
-            )
-            return doc_id
-
-        # Documento nuevo o modificado:
-        # aqui SI se convierte y se sube.
-        raw = source.decode("utf-8-sig")
 
         pdf = self.converter(
             vault=self.config.vault,
@@ -377,237 +227,60 @@ class Migrador:
 
         if nota.read_bytes() != source:
             raise RuntimeError(
-                "La nota cambio durante la conversion."
+                "La nota cambio durante la conversion. "
+                "Vuelve a ejecutar para sincronizar la version actual."
             )
 
-        pdf_data = Path(pdf).read_bytes()
+        pdf_file = Path(pdf)
+        pdf_data = pdf_file.read_bytes()
 
         if not pdf_data.startswith(b"%PDF-"):
-            raise RuntimeError(
-                "El conversor no produjo un PDF valido."
-            )
+            raise RuntimeError("El conversor no produjo un PDF valido.")
 
-        doc_id = existing["id"] if existing else str(uuid.uuid4())
-
-        pdf_path = (
-            f"documents/{doc_id}/"
-            f"{hashlib.sha256(pdf_data).hexdigest()}.pdf"
-        )
-
-        md_path = (
-            existing.get("storage_path")
-            if existing
-            else f"documents/{doc_id}.md"
-        )
-
-        self.upload(
-            PDF_BUCKET,
-            pdf_path,
-            pdf_data,
-            "application/pdf",
-        )
-
-        self.upload(
-            FILES_BUCKET,
-            md_path,
-            source,
-            "text/markdown; charset=utf-8",
-        )
-
-        payload = {
-            "title": nota.stem,
-            "original_name": nota.name,
-            "extension": "md",
-            "storage_path": md_path,
-            "size_bytes": len(source),
-            "content": raw,
-            "folder_id": folder_id,
-            "pdf_bucket": PDF_BUCKET,
-            "pdf_storage_path": pdf_path,
-            "pdf_size_bytes": len(pdf_data),
-            "pdf_updated_at": datetime.now(timezone.utc).isoformat(),
-            "source_sha256": source_sha256,
-            "source_rel_path": source_rel_path,
-        }
-
-        if existing:
-            response = (
-                self.client
-                .table("documents")
-                .update(payload)
-                .eq("id", doc_id)
-                .execute()
-            )
-        else:
-            response = (
-                self.client
-                .table("documents")
-                .insert({"id": doc_id, **payload})
-                .execute()
-            )
-
-        if not response.data:
-            raise RuntimeError(
-                "Supabase no devolvio el documento guardado."
-            )
-
-        self.ultimo_documento = {
-            "id": doc_id,
-            **payload,
-        }
-
-        print(
-            f"[SUBIDO] {nota.name} | document_id={doc_id}",
-            flush=True,
-        )
-
-        return doc_id
-
-    def sincronizar_pdf(self, archivo: Path):
-        archivo = archivo.resolve()
-
-        if (
-            not archivo.is_relative_to(self.config.vault)
-            or not archivo.is_file()
-            or archivo.suffix.lower() != ".pdf"
-        ):
-            raise RuntimeError(
-                f"El archivo debe ser un PDF dentro de la boveda: {archivo}"
-            )
-
-        datos = archivo.read_bytes()
-
-        if not datos.startswith(b"%PDF-"):
-            raise RuntimeError(
-                f"El archivo no contiene una cabecera PDF valida: {archivo}"
-            )
-
-        source_sha256 = hashlib.sha256(datos).hexdigest()
-        source_rel_path = archivo.relative_to(self.config.vault).as_posix()
-
-        rel_folder = archivo.relative_to(self.config.vault).parent.as_posix()
+        rel_folder = nota.relative_to(self.config.vault).parent.as_posix()
         folder_id = self.resolve_folder_id(rel_folder)
 
-        # Buscar primero por SHA.
+        pdf_name = pdf_file.name
+
         query = (
             self.client
             .table("documents")
-            .select("id,storage_path,folder_id,source_sha256,source_rel_path")
-            .eq("source_sha256", source_sha256)
+            .select("id,storage_path,folder_id")
+            .eq("original_name", pdf_name)
         )
 
         existing = one_or_none(
-            query.limit(2).execute(),
-            f"SHA {archivo.name}"
+            eq_or_is_null(query, "folder_id", folder_id)
+            .limit(2)
+            .execute(),
+            f"PDF {pdf_name}",
         )
 
-        # Compatibilidad con documentos antiguos.
         if existing is None:
-            query = (
+            globales = (
                 self.client
                 .table("documents")
-                .select("id,storage_path,folder_id,source_sha256,source_rel_path")
-                .eq("original_name", archivo.name)
-            )
-
-            existing = one_or_none(
-                eq_or_is_null(query, "folder_id", folder_id)
+                .select("id,storage_path,folder_id")
+                .eq("original_name", pdf_name)
                 .limit(2)
-                .execute(),
-                str(archivo),
-            )
-
-        # Documento antiguo:
-        # registrar SHA y nueva ubicacion SIN subir nuevamente.
-        if (
-            existing
-            and not self.forzar
-            and not existing.get("source_sha256")
-        ):
-            doc_id = existing["id"]
-
-            payload = {
-                "title": archivo.stem,
-                "original_name": archivo.name,
-                "extension": "pdf",
-                "size_bytes": len(datos),
-                "folder_id": folder_id,
-                "source_sha256": source_sha256,
-                "source_rel_path": source_rel_path,
-            }
-
-            response = (
-                self.client
-                .table("documents")
-                .update(payload)
-                .eq("id", doc_id)
                 .execute()
+                .data
+                or []
             )
 
-            if not response.data:
+            if len(globales) == 1:
+                existing = globales[0]
+                print(
+                    f"[MOVIMIENTO] {pdf_name}: "
+                    f"reutilizando document_id={existing['id']}",
+                    flush=True,
+                )
+            elif len(globales) > 1:
                 raise RuntimeError(
-                    "No se pudo asociar el SHA al PDF existente."
+                    f"Movimiento ambiguo: existen {len(globales)} "
+                    f"documentos llamados {pdf_name}. No se crea duplicado."
                 )
 
-            self.ultimo_documento = {
-                "id": doc_id,
-                **payload,
-                "storage_path": existing.get("storage_path"),
-            }
-
-            print(
-                f"[REUBICADO/REGISTRADO] {archivo.name} | document_id={doc_id}",
-                flush=True,
-            )
-
-            return doc_id
-
-        # Documento sin cambios:
-        # NO tocar Storage.
-        if (
-            existing
-            and not self.forzar
-            and existing.get("source_sha256") == source_sha256
-        ):
-            doc_id = existing["id"]
-
-            payload = {
-                "title": archivo.stem,
-                "original_name": archivo.name,
-                "extension": "pdf",
-                "size_bytes": len(datos),
-                "folder_id": folder_id,
-                "source_sha256": source_sha256,
-                "source_rel_path": source_rel_path,
-            }
-
-            response = (
-                self.client
-                .table("documents")
-                .update(payload)
-                .eq("id", doc_id)
-                .execute()
-            )
-
-            if not response.data:
-                raise RuntimeError(
-                    "No se pudo actualizar la ubicacion del PDF."
-                )
-
-            self.ultimo_documento = {
-                "id": doc_id,
-                **payload,
-                "storage_path": existing.get("storage_path"),
-            }
-
-            print(
-                f"[SIN SUBIDA] {archivo.name} | documento sin cambios",
-                flush=True,
-            )
-
-            return doc_id
-
-        # Documento nuevo o modificado.
         doc_id = existing["id"] if existing else str(uuid.uuid4())
 
         storage_path = (
@@ -616,27 +289,42 @@ class Migrador:
             else f"documents/{doc_id}.pdf"
         )
 
+        if not storage_path.lower().endswith(".pdf"):
+            storage_path = f"documents/{doc_id}.pdf"
+
+        print(f"[SUBIDA] PDF -> {FILES_BUCKET}", flush=True)
+
         self.upload(
             FILES_BUCKET,
             storage_path,
-            datos,
+            pdf_data,
             "application/pdf",
         )
 
+        if nota.read_bytes() != source:
+            raise RuntimeError(
+                "La nota cambio durante la subida. "
+                "No se actualizo documents. "
+                "Vuelve a ejecutar."
+            )
+
+        pdf_path = f"documents/{doc_id}/{hashlib.sha256(pdf_data).hexdigest()}.pdf"
+        print(f"[SUBIDA] PDF para visor -> {PDF_BUCKET}", flush=True)
+        self.upload(PDF_BUCKET, pdf_path, pdf_data, "application/pdf")
+        self.validar_fuente()
+
         payload = {
-            "title": archivo.stem,
-            "original_name": archivo.name,
+            "title": pdf_file.stem,
+            "original_name": pdf_name,
             "extension": "pdf",
             "storage_path": storage_path,
-            "size_bytes": len(datos),
+            "size_bytes": len(pdf_data),
             "content": "",
             "folder_id": folder_id,
-            "pdf_bucket": None,
-            "pdf_storage_path": None,
-            "pdf_size_bytes": None,
-            "pdf_updated_at": None,
-            "source_sha256": source_sha256,
-            "source_rel_path": source_rel_path,
+            "pdf_bucket": PDF_BUCKET,
+            "pdf_storage_path": pdf_path,
+            "pdf_size_bytes": len(pdf_data),
+            "pdf_updated_at": datetime.now(timezone.utc).isoformat(),
         }
 
         if existing:
@@ -657,7 +345,7 @@ class Migrador:
 
         if not response.data:
             raise RuntimeError(
-                "Supabase no devolvio el PDF guardado."
+                "Supabase no devolvio el documento PDF guardado."
             )
 
         self.ultimo_documento = {
@@ -666,10 +354,55 @@ class Migrador:
         }
 
         print(
-            f"[SUBIDO] {archivo.name} | document_id={doc_id}",
+            f"[OK] {pdf_name} | document_id={doc_id}",
             flush=True,
         )
 
+        return doc_id
+
+    def sincronizar_pdf(self, archivo: Path):
+        archivo = archivo.resolve()
+        if not archivo.is_relative_to(self.config.vault) or not archivo.is_file() or archivo.suffix.lower() != ".pdf":
+            raise RuntimeError(f"El archivo debe ser un PDF dentro de la boveda: {archivo}")
+        datos = archivo.read_bytes()
+        if not datos.startswith(b"%PDF-"):
+            raise RuntimeError(f"El archivo no contiene una cabecera PDF valida: {archivo}")
+        destino = ruta_pdf(self.config.vault, archivo, self.config.output)
+        destino.parent.mkdir(parents=True, exist_ok=True)
+        if not destino.is_file() or destino.read_bytes() != datos:
+            with tempfile.NamedTemporaryFile(dir=destino.parent, suffix=".pdf", delete=False) as f:
+                temporal = Path(f.name)
+                f.write(datos)
+            try:
+                os.replace(temporal, destino)
+            finally:
+                temporal.unlink(missing_ok=True)
+        self.validar_fuente()
+        folder_id = self.resolve_folder_id(archivo.relative_to(self.config.vault).parent.as_posix())
+        query = self.client.table("documents").select("id,storage_path").eq("original_name", archivo.name)
+        existing = one_or_none(eq_or_is_null(query, "folder_id", folder_id).limit(2).execute(), str(archivo))
+        doc_id = existing["id"] if existing else str(uuid.uuid4())
+        storage_path = (existing.get("storage_path") if existing else None) or f"documents/{doc_id}.pdf"
+        print(f"[SUBIDA] PDF existente -> {FILES_BUCKET}", flush=True)
+        self.upload(FILES_BUCKET, storage_path, datos, "application/pdf")
+        if archivo.read_bytes() != datos:
+            raise RuntimeError("El PDF original cambio durante la subida. Repite la ejecucion.")
+        self.validar_fuente()
+        pdf_path = f"documents/{doc_id}/{hashlib.sha256(datos).hexdigest()}.pdf"
+        print(f"[SUBIDA] PDF nativo -> {PDF_BUCKET}", flush=True)
+        self.upload(PDF_BUCKET, pdf_path, datos, "application/pdf")
+        payload = {"title": archivo.stem, "original_name": archivo.name, "extension": "pdf",
+                   "storage_path": storage_path, "size_bytes": len(datos), "content": "",
+                   "folder_id": folder_id, "pdf_bucket": PDF_BUCKET, "pdf_storage_path": pdf_path,
+                   "pdf_size_bytes": len(datos), "pdf_updated_at": datetime.now(timezone.utc).isoformat()}
+        if existing:
+            response = self.client.table("documents").update(payload).eq("id", doc_id).execute()
+        else:
+            response = self.client.table("documents").insert({"id": doc_id, **payload}).execute()
+        if not response.data:
+            raise RuntimeError("Supabase no devolvio el PDF guardado.")
+        self.ultimo_documento = {"id": doc_id, **payload}
+        print(f"[OK] {archivo.name} | document_id={doc_id}", flush=True)
         return doc_id
 
     def archivos(self):
@@ -731,7 +464,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
-
 
 

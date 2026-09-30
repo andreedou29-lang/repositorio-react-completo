@@ -960,10 +960,3 @@ dialog::backdrop {
     transition: none;
   }
 }
-
-@media (min-width: 781px) { .sidebar { display: none !important; } .main-pane { margin-left: 0 !important; } }
-
-/* Ajuste de contraste */
-.document-heading h1, .document-heading h2, .document-heading h3, .document-heading .document-title { color: #30353a !important; text-shadow: none !important; }
-.document-heading .pdf-meta, .document-heading .file-meta, .document-heading small { color: #4b5158 !important; }
-.document-heading { color: #30353a !important; }

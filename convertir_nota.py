@@ -325,9 +325,9 @@ def convertir_nota(vault: Path, nota: Path, salida: Path,
 
                     for origen in candidatos:
                         if origen.is_file():
-                            destino = boveda_temporal / origen.relative_to(vault)
-                            destino.parent.mkdir(parents=True, exist_ok=True)
-                            destino.write_bytes(origen.read_bytes())
+                            destino_adjunto = boveda_temporal / origen.relative_to(vault)
+                            destino_adjunto.parent.mkdir(parents=True, exist_ok=True)
+                            destino_adjunto.write_bytes(origen.read_bytes())
 
             except UnicodeDecodeError:
                 nota_temporal.write_bytes(datos_nota)

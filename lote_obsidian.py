@@ -1,4 +1,4 @@
-"""Lotes reanudables. Estado local sin credenciales; servicios remotos inyectados."""
+﻿"""Lotes reanudables. Estado local sin credenciales; servicios remotos inyectados."""
 from collections import Counter
 from contextlib import contextmanager
 from datetime import datetime, timezone
@@ -96,14 +96,6 @@ def huella_lote(config, versiones=None):
     return hashlib.sha256(json.dumps(data, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
 
 
-def huella_archivo(huella_base, inventario, rel):
-    archivo = inventario.get(rel)
-    if archivo is None or archivo.get("sha256") is None:
-        return None
-    data = f"{huella_base}:{rel}:{archivo['sha256']}"
-    return hashlib.sha256(data.encode()).hexdigest()
-
-
 def validar_inventario(vault, inventario):
     for rel, expected in inventario.items():
         path = vault / rel
@@ -115,51 +107,17 @@ def validar_inventario(vault, inventario):
             raise BovedaModificada(f"Un archivo cambio durante el lote: {rel}. Repite la ejecucion cuando termines de editar.")
 
 
-def ya_sincronizado(migrador, entry, huella, pdf):
-    if not entry or entry.get("huella") != huella or not pdf.is_file():
+def ya_sincronizado(migrador, entry, pdf):
+    if not entry:
         return False
-    if sha_archivo(pdf) != entry.get("pdf_sha256"):
+
+    rel = entry.get("rel")
+    if not rel:
         return False
-    expected = entry.get("documento", {})
-    if not expected.get("id"):
-        return False
-    columns = "id,original_name,folder_id,storage_path,extension,pdf_bucket,pdf_storage_path,pdf_size_bytes"
-    result = migrador.client.table("documents").select(columns).eq("id", expected["id"]).limit(2).execute()
-    rows = result.data or []
-    return len(rows) == 1 and all(rows[0].get(k) == expected.get(k) for k in columns.split(","))
 
-
-def clasificar(error):
-    text = str(error).lower()
-    if isinstance(error, UnicodeError): return "codificacion"
-    if isinstance(error, BovedaModificada): return "boveda_modificada"
-    if any(s in text for s in ("adjunto", "imagen", "embedded", "incrustado")): return "adjunto"
-    if "yaml" in text or "frontmatter" in text: return "metadatos"
-    if "cierra el visor" in text or isinstance(error, PermissionError): return "archivo_bloqueado"
-    if "registro:" in text or "xelatex" in text or "pandoc" in text: return "conversion"
-    return "sincronizacion"
-
-
-def guardar_informe(output, registros, total, terminado, general=""):
-    counts = dict(Counter(r["estado"] for r in registros))
-    report = {"actualizado": datetime.now(timezone.utc).isoformat(), "terminado": terminado,
-              "total": total, "procesados": len(registros), "pendientes": total-len(registros),
-              "resumen": counts, "error_general": general, "archivos": registros}
-    escribir_atomico(output / "informe_migracion.json", json.dumps(report, indent=2, ensure_ascii=False))
-    buffer = io.StringIO(newline="")
-    fields = ["archivo", "estado", "categoria", "detalle", "registro", "document_id"]
-    writer = csv.DictWriter(buffer, fieldnames=fields)
-    writer.writeheader()
-    for r in registros:
-        safe = {}
-        for key in fields:
-            value = str(r.get(key, ""))
-            safe[key] = "'" + value if value.startswith(("=", "+", "-", "@")) else value
-        writer.writerow(safe)
-    try:
-        escribir_atomico(output / "informe_migracion.csv", "\ufeff" + buffer.getvalue())
-    except PermissionError:
-        print("[AVISO] Cierra el CSV para actualizarlo. El informe JSON si quedo guardado.", flush=True)
+    return entry.get("source_sha256") == migrador.calcular_sha256(
+        migrador.config.vault_path / rel
+    )
 
 
 def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
@@ -182,7 +140,6 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
         except (FileNotFoundError, ValueError):
             state = {"version": 1, "archivos": {}}
 
-        huella_base = huella_lote(config, versiones)
         candidatos = []
 
         # FILTRO INCREMENTAL:
@@ -200,12 +157,6 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
                     "sha256": sha,
                 }
 
-                huella = huella_archivo(
-                    huella_base,
-                    {rel: inventario_archivo},
-                    rel,
-                )
-
                 entry = state["archivos"].get(rel)
                 pdf = ruta_pdf(config.vault, path, output)
 
@@ -213,12 +164,12 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
                     not forzar
                     and entry
                     and entry.get("source_sha256") == sha
-                    and (entry.get("documento") or entry.get("error"))
+                    and entry.get("documento")
                 ):
                     print(f"[SIN CAMBIOS] {rel}", flush=True)
                     continue
 
-                candidatos.append((path, rel, huella))
+                candidatos.append((path, rel, sha))
 
             except OSError as error:
                 print(f"[PENDIENTE] {rel}: {error}", flush=True)
@@ -247,7 +198,7 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
                 flush=True,
             )
 
-            for n, (path, rel, huella) in enumerate(candidatos, 1):
+            for n, (path, rel, sha) in enumerate(candidatos, 1):
                 pdf = ruta_pdf(config.vault, path, output)
                 log = (
                     str(pdf.with_suffix(".conversion.log"))
@@ -367,3 +318,6 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
             )
 
         return code
+
+
+
