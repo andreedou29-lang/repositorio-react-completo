@@ -99,14 +99,28 @@ class Migrador:
             if str(r.get("name", "")).casefold() == "andre"
         ]
 
-        if len(roots) != 1:
+        if len(roots) > 1:
             raise RuntimeError(
-                f"Debe existir exactamente una carpeta raiz Andre. Encontradas: {len(roots)}"
+                f"Hay varias carpetas raiz Andre en Supabase: {len(roots)}. "
+                "Elimina el duplicado antes de sincronizar."
             )
 
+        if len(roots) == 0:
+            root_id = str(uuid.uuid4())
+            self.client.table("folders").insert(
+                {
+                    "id": root_id,
+                    "name": "Andre",
+                    "parent_id": None,
+                }
+            ).execute()
+            print("[OK] Carpeta raiz Andre creada en Supabase.", flush=True)
+        else:
+            root_id = roots[0]["id"]
+
         self.folder_map = {
-            ".": roots[0]["id"],
-            "": roots[0]["id"],
+            ".": root_id,
+            "": root_id,
         }
         self.image_index = None
         self.image_cache = {}
@@ -675,11 +689,36 @@ class Migrador:
     def archivos(self):
         def onerror(error):
             raise error
-        for root, dirs, files in os.walk(self.config.vault, onerror=onerror, followlinks=False):
-            dirs[:] = sorted(d for d in dirs if not d.startswith("."))
-            for name in sorted(files):
-                if not name.startswith(".") and Path(name).suffix.lower() in {".md", ".pdf"}:
-                    yield Path(root) / name
+
+        vault = self.config.vault.resolve()
+
+        # Solo se sincronizan las carpetas principales cuyo nombre
+        # termina en "SEMESTRE". Todo lo demas queda fuera.
+        carpetas_semestre = {
+            p.resolve()
+            for p in vault.iterdir()
+            if p.is_dir()
+            and not p.name.startswith(".")
+            and p.name.strip().casefold().endswith("semestre")
+        }
+
+        for carpeta_raiz in sorted(carpetas_semestre, key=lambda p: p.name.casefold()):
+            for root, dirs, files in os.walk(
+                carpeta_raiz,
+                onerror=onerror,
+                followlinks=False,
+            ):
+                dirs[:] = sorted(
+                    d for d in dirs
+                    if not d.startswith(".")
+                )
+
+                for name in sorted(files):
+                    if (
+                        not name.startswith(".")
+                        and Path(name).suffix.lower() in {".md", ".pdf"}
+                    ):
+                        yield Path(root) / name
 
     def notas(self):
         return (p for p in self.archivos() if p.suffix.lower() == ".md")
@@ -731,6 +770,8 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
 
 
 

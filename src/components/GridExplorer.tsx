@@ -32,7 +32,8 @@ export default function GridExplorer({
     let current = folders.find((f) => f.id === currentFolderId);
     while (current && current.id !== rootId) {
       trail.unshift(current);
-      current = folders.find((f) => f.id === current.parent_id);
+      const parentId = current.parent_id;
+      current = folders.find((f) => f.id === parentId);
     }
     return trail;
   };
@@ -135,4 +136,5 @@ export default function GridExplorer({
     </div>
   );
 }
+
 

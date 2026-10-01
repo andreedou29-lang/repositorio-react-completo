@@ -107,6 +107,10 @@ def validar_inventario(vault, inventario):
             raise BovedaModificada(f"Un archivo cambio durante el lote: {rel}. Repite la ejecucion cuando termines de editar.")
 
 
+
+def guardar_informe(output, registros, total, terminado, general=""):
+    return
+
 def ya_sincronizado(migrador, entry, pdf):
     if not entry:
         return False
@@ -318,6 +322,7 @@ def ejecutar_lote(migrador, archivos, forzar=False, versiones=None):
             )
 
         return code
+
 
 
 
