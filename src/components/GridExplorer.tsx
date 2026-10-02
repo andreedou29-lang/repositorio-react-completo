@@ -39,7 +39,7 @@ export default function GridExplorer({
   };
 
   const breadcrumbs = getBreadcrumbs();
-  const currentFolders = folders.filter((f) => f.parent_id === currentFolderId && f.name.toLowerCase() !== 'imagenes');
+  const currentFolders = folders.filter((f) => f.parent_id === currentFolderId && f.name.toLowerCase() !== 'imagenes' && f.name.toLowerCase() !== 'libros' && f.name.toLowerCase() !== 'libros');
   const currentDocs = documents.filter((d) => d.folder_id === currentFolderId);
 
   return (

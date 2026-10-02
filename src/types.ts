@@ -29,3 +29,23 @@ export interface Member {
   active: boolean;
   created_at: string;
 }
+
+export interface BookRecord {
+  id: string;
+  title: string;
+  original_name: string;
+  folder_id: string | null;
+  storage_path: string;
+  size_bytes: number;
+  source_sha256: string;
+  relative_path: string;
+  created_at: string;
+  url?: string | null;
+}
+
+export interface BookFolder {
+  id: string;
+  name: string;
+  parent_id: string | null;
+}
+
