@@ -222,6 +222,55 @@ p {
   margin: 28px 0 0 !important;
   font-size: 12px !important;
 }
+.welcome-cover {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: #fff;
+  perspective: 1400px;
+  transform-origin: left center;
+  backface-visibility: hidden;
+}
+.welcome-cover img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.welcome-cover-hint {
+  position: absolute;
+  top: max(18px, env(safe-area-inset-top));
+  right: max(18px, env(safe-area-inset-right));
+  padding: 10px 15px;
+  border: 1px solid #fff8;
+  border-radius: 999px;
+  background: #30353ae8;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  box-shadow: 0 3px 14px #0003;
+}
+.welcome-cover.opening {
+  animation: welcome-unfold 800ms cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+@keyframes welcome-unfold {
+  to {
+    opacity: 0;
+    transform: perspective(1400px) rotateY(-105deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .welcome-cover.opening {
+    animation-duration: 1ms;
+  }
+}
 .account-email {
   font-weight: 600;
   overflow-wrap: anywhere;

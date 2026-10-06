@@ -26,6 +26,28 @@ import { useAuth } from './hooks/useAuth';
 import { useRepository } from './hooks/useRepository';
 import { useBookRepository } from './hooks/useBookRepository';
 
+function WelcomeCover() {
+  const [opening, setOpening] = useState(false);
+  const [visible, setVisible] = useState(true);
+
+  if (!visible) return null;
+
+  return (
+    <button
+      className={`welcome-cover${opening ? ' opening' : ''}`}
+      aria-label="Abrir portada y continuar"
+      onClick={() => setOpening(true)}
+      onAnimationEnd={() => {
+        if (opening) setVisible(false);
+      }}
+      disabled={opening}
+    >
+      <img src="/welcome-cover.png" alt="You're welcome by Andre" />
+      {!opening && <span className="welcome-cover-hint">Toca para continuar</span>}
+    </button>
+  );
+}
+
 export default function App() {
   const {
     session,
@@ -117,33 +139,40 @@ export default function App() {
 
   if (checking) {
     return (
-      <main className="auth-screen">
-        <LoaderCircle className="spin" />
-        <p>Comprobando tu acceso…</p>
-      </main>
+      <>
+        <main className="auth-screen">
+          <LoaderCircle className="spin" />
+          <p>Comprobando tu acceso…</p>
+        </main>
+        <WelcomeCover />
+      </>
     );
   }
 
   if (!session || !role) {
     return (
-      <main className="auth-screen">
-        <div className="auth-card">
-          <BookOpen size={36} />
-          <p className="eyebrow">BIBLIOTECA PRIVADA</p>
-          <h1>{appName}</h1>
+      <>
+        <main className="auth-screen">
+          <div className="auth-card">
+            <BookOpen size={36} />
+            <p className="eyebrow">BIBLIOTECA PRIVADA</p>
+            <h1>{appName}</h1>
 
-          <button onClick={login} disabled={busy}>
-            <LockKeyhole size={18} />
-            Continuar con Google
-          </button>
-        </div>
-      </main>
+            <button onClick={login} disabled={busy}>
+              <LockKeyhole size={18} />
+              Continuar con Google
+            </button>
+          </div>
+        </main>
+        <WelcomeCover />
+      </>
     );
   }
 
   return (
-    <div className="app-shell">
-      <div className="main-pane">
+    <>
+      <div className="app-shell">
+        <div className="main-pane">
 
         <header className="topbar">
           <span className="topbar-label">
@@ -377,21 +406,22 @@ export default function App() {
           </>
         )}
 
-      </div>
+        </div>
 
-      {adminOpen && role === 'admin' && (
-        <Modal
-          title="Administrar biblioteca"
-          onClose={() => setAdminOpen(false)}
-        >
-          <AdminPanel
-            folders={folders}
-            onChanged={refresh}
-          />
-        </Modal>
-      )}
-    </div>
+        {adminOpen && role === 'admin' && (
+          <Modal
+            title="Administrar biblioteca"
+            onClose={() => setAdminOpen(false)}
+          >
+            <AdminPanel
+              folders={folders}
+              onChanged={refresh}
+            />
+          </Modal>
+        )}
+      </div>
+      <WelcomeCover />
+    </>
   );
 }
-
 
