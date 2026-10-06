@@ -36,7 +36,10 @@ function WelcomeCover() {
     <button
       className={`welcome-cover${opening ? ' opening' : ''}`}
       aria-label="Abrir portada y continuar"
-      onClick={() => setOpening(true)}
+      onClick={() => {
+        setOpening(true);
+        window.setTimeout(() => setVisible(false), 850);
+      }}
       onAnimationEnd={() => {
         if (opening) setVisible(false);
       }}
@@ -424,4 +427,3 @@ export default function App() {
     </>
   );
 }
-
