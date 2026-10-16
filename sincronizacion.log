@@ -297,3 +297,2228 @@ Proceso finalizado: 38/42 archivos subidos correctamente.
 [OK] Sincronizacion de libros terminada. 
 FIN: 01/10/2026 22:44:12,21 
  
+================================================== 
+INICIO: 10/10/2026 21:31:34,07 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[SUBIENDO] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf (10.88 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf (27.99 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\Multivarible calculus.pdf (5.70 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf (0.55 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf (26.83 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf (27.95 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf (7.15 MB)...
+  [DB INSERTADA]
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[SUBIENDO] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf (4.32 MB)...
+  [DB INSERTADA]
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[SUBIENDO] Probabilidad y Estadistica\Compilado PyE.pdf (0.44 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Arnol'd - Ordinary Differential Equations.pdf (5.28 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\advances-in-financial-machine-learning.pdf (11.78 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Applied differential equations with boundary value problems.pdf (11.14 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Bases de Datos.pdf (6.63 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Deep learning with python.pdf (13.79 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\ebook-patrones-de-velas-japonesas.pdf (2.18 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Functional Programming in Scala.pdf (3.57 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf (15.69 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf (4.61 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\Python-for-Data-Analysis.pdf (8.95 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Programacion\pythoncrashcourse.pdf (5.38 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf (1.97 MB)...
+  [DB INSERTADA]
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[SUBIENDO] Analisis 1 y 2\Analysis I (Herbert Amann etc.).pdf (2.38 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf (5.29 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf (1.97 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\rudin-walter-principios-de-anc3a1lisis-matemc3a1ticoc2b4c2b4-tercera-edicic3b3n-mcgraw-hill-mc3a9xico-1980-ocr.pdf (11.22 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Apostol Tom - Calculus Vol 1.pdf (31.70 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Calculo_Diferencial_German_Rojas.pdf (1.40 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\CALCULO_LEITHOLD.pdf (38.17 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Calculus - Michael Spivak (3ra Edición).pdf (24.62 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Cours d’analyse 1 Licence 1er semestre.pdf (0.40 MB)...
+  [DB INSERTADA]
+[OMITIDO - >50MB] Analisis 1 y 2\Cálculo - Una variable - Zill & Wright - 4ed.pdf (50.90 MB)
+[SUBIENDO] Analisis 1 y 2\Ejercicios funciones integrables y derivadas.pdf (1.71 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf (11.87 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\extraits_exo_analyse_t2.pdf (0.75 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\FUNCIONES REALES.pdf (28.71 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\LARA y ARROBA Fundamentos.pdf (40.88 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\limites et continuite.pdf (0.46 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf (11.22 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf (21.68 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Calculo integral solucionario.pdf (17.67 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf (3.28 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\EPN_Grado_CCalculo_NotasClase_2019-A.pdf (0.87 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\PINEDA-2ED-ocr.pdf (5.89 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Suceciones en R-Universidad de Chile.pdf (1.82 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Suites_Reelles-Pascal Laine.pdf (0.55 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\[Purcell,Varberg,Rigdon]Calculo.pdf (7.93 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Analysis II (Herbert Amann, Joachim Escher) .pdf (2.78 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Analisis 1 y 2\Analysis III (Herbert Amann , Joachim Escher) .pdf (10.29 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Algebra Lineal 1 y 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf (0.60 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Algebra Lineal 1 y 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf (34.13 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Algebra Lineal 1 y 2\Espacio Vectorial 3.pdf (0.33 MB)...
+  [DB INSERTADA]
+[OMITIDO - >50MB] Algebra Lineal 1 y 2\Fundamentos de Algebra Lineal (Ron Larson).pdf (135.30 MB)
+[SUBIENDO] Algebra Lineal 1 y 2\giancoli1.pdf (35.80 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Algebra Lineal 1 y 2\SerwayVol2.pdf (25.96 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Algebra Lineal 1 y 2\Linear Algebra for Data Science.pdf (10.50 MB)...
+  [DB INSERTADA]
+[SUBIENDO] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf (25.14 MB)...
+  [DB INSERTADA]
+[OMITIDO - >50MB] Topologia\ApuntedeTopología.pdf (58.66 MB)
+[SUBIENDO] Topologia\Topología - James R. Munkres.pdf (43.24 MB)...
+  [DB INSERTADA]
+
+=== SINCRONIZACIÓN FINALIZADA (80 libros procesados) ===
+[OK] Sincronizacion de libros terminada. 
+FIN: 10/10/2026 21:47:10,77 
+ 
+================================================== 
+INICIO: 10/10/2026 22:23:19,61 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\Multivarible calculus.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\Arnol'd - Ordinary Differential Equations.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Applied differential equations with boundary value problems.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[AL DÍA] Analisis 1 y 2\Analysis I (Herbert Amann etc.).pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\rudin-walter-principios-de-anc3a1lisis-matemc3a1ticoc2b4c2b4-tercera-edicic3b3n-mcgraw-hill-mc3a9xico-1980-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Apostol Tom - Calculus Vol 1.pdf
+[AL DÍA] Analisis 1 y 2\Calculo_Diferencial_German_Rojas.pdf
+[AL DÍA] Analisis 1 y 2\CALCULO_LEITHOLD.pdf
+[AL DÍA] Analisis 1 y 2\Calculus - Michael Spivak (3ra Edición).pdf
+[AL DÍA] Analisis 1 y 2\Cours d’analyse 1 Licence 1er semestre.pdf
+[COMPRIMIENDO] Analisis 1 y 2\Cálculo - Una variable - Zill & Wright - 4ed.pdf (50.90 MB)...
+[SUBIENDO] Cálculo - Una variable - Zill & Wright - 4ed.pdf (33.85 MB; paginas 1-626)...
+  [DB INSERTADA]
+  [ERROR PDF/DB] Analisis 1 y 2\Cálculo - Una variable - Zill & Wright - 4ed.pdf: name 'divided' is not defined
+[AL DÍA] Analisis 1 y 2\Ejercicios funciones integrables y derivadas.pdf
+[AL DÍA] Analisis 1 y 2\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf
+[AL DÍA] Analisis 1 y 2\extraits_exo_analyse_t2.pdf
+[AL DÍA] Analisis 1 y 2\FUNCIONES REALES.pdf
+[AL DÍA] Analisis 1 y 2\LARA y ARROBA Fundamentos.pdf
+[AL DÍA] Analisis 1 y 2\limites et continuite.pdf
+[AL DÍA] Analisis 1 y 2\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf
+[AL DÍA] Analisis 1 y 2\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf
+[AL DÍA] Analisis 1 y 2\Calculo integral solucionario.pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\EPN_Grado_CCalculo_NotasClase_2019-A.pdf
+[AL DÍA] Analisis 1 y 2\PINEDA-2ED-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Suceciones en R-Universidad de Chile.pdf
+[AL DÍA] Analisis 1 y 2\Suites_Reelles-Pascal Laine.pdf
+[AL DÍA] Analisis 1 y 2\[Purcell,Varberg,Rigdon]Calculo.pdf
+[AL DÍA] Analisis 1 y 2\Analysis II (Herbert Amann, Joachim Escher) .pdf
+[AL DÍA] Analisis 1 y 2\Analysis III (Herbert Amann , Joachim Escher) .pdf
+[AL DÍA] Algebra Lineal 1 y 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf
+[AL DÍA] Algebra Lineal 1 y 2\Espacio Vectorial 3.pdf
+[COMPRIMIENDO] Algebra Lineal 1 y 2\Fundamentos de Algebra Lineal (Ron Larson).pdf (135.30 MB)...
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 1 de 4).pdf (32.91 MB; paginas 1-112)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 2 de 4).pdf (34.90 MB; paginas 113-225)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 3 de 4).pdf (33.98 MB; paginas 226-337)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 4 de 4).pdf (33.66 MB; paginas 338-450)...
+  [DB INSERTADA]
+  [ERROR PDF/DB] Algebra Lineal 1 y 2\Fundamentos de Algebra Lineal (Ron Larson).pdf: name 'divided' is not defined
+[AL DÍA] Algebra Lineal 1 y 2\giancoli1.pdf
+[AL DÍA] Algebra Lineal 1 y 2\SerwayVol2.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Linear Algebra for Data Science.pdf
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[COMPRIMIENDO] Topologia\ApuntedeTopología.pdf (58.66 MB)...
+[SUBIENDO] ApuntedeTopología (Parte 1 de 2).pdf (25.11 MB; paginas 1-65)...
+  [DB INSERTADA]
+[SUBIENDO] ApuntedeTopología (Parte 2 de 2).pdf (33.54 MB; paginas 66-130)...
+  [DB INSERTADA]
+  [ERROR PDF/DB] Topologia\ApuntedeTopología.pdf: name 'divided' is not defined
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+
+=== SINCRONIZACIÓN FINALIZADA (87 libros procesados) ===
+Traceback (most recent call last):
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 308, in <module>
+    sincronizar()
+    ~~~~~~~~~~~^^
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 305, in sincronizar
+    raise RuntimeError(f"La sincronización terminó con {errores} error(es).")
+RuntimeError: La sincronización terminó con 3 error(es).
+[ERROR] Fallo la sincronizacion de libros. 
+FIN: 10/10/2026 22:29:47,58 
+ 
+================================================== 
+INICIO: 10/10/2026 22:35:19,39 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\Multivarible calculus.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\Arnol'd - Ordinary Differential Equations.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Applied differential equations with boundary value problems.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[AL DÍA] Analisis 1 y 2\Analysis I (Herbert Amann etc.).pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\rudin-walter-principios-de-anc3a1lisis-matemc3a1ticoc2b4c2b4-tercera-edicic3b3n-mcgraw-hill-mc3a9xico-1980-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Apostol Tom - Calculus Vol 1.pdf
+[AL DÍA] Analisis 1 y 2\Calculo_Diferencial_German_Rojas.pdf
+[AL DÍA] Analisis 1 y 2\CALCULO_LEITHOLD.pdf
+[AL DÍA] Analisis 1 y 2\Calculus - Michael Spivak (3ra Edición).pdf
+[AL DÍA] Analisis 1 y 2\Cours d’analyse 1 Licence 1er semestre.pdf
+[AL DÍA] Analisis 1 y 2\Cálculo - Una variable - Zill & Wright - 4ed.pdf
+[AL DÍA] Analisis 1 y 2\Ejercicios funciones integrables y derivadas.pdf
+[AL DÍA] Analisis 1 y 2\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf
+[AL DÍA] Analisis 1 y 2\extraits_exo_analyse_t2.pdf
+[AL DÍA] Analisis 1 y 2\FUNCIONES REALES.pdf
+[AL DÍA] Analisis 1 y 2\LARA y ARROBA Fundamentos.pdf
+[AL DÍA] Analisis 1 y 2\limites et continuite.pdf
+[AL DÍA] Analisis 1 y 2\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf
+[AL DÍA] Analisis 1 y 2\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf
+[AL DÍA] Analisis 1 y 2\Calculo integral solucionario.pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\EPN_Grado_CCalculo_NotasClase_2019-A.pdf
+[AL DÍA] Analisis 1 y 2\PINEDA-2ED-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Suceciones en R-Universidad de Chile.pdf
+[AL DÍA] Analisis 1 y 2\Suites_Reelles-Pascal Laine.pdf
+[AL DÍA] Analisis 1 y 2\[Purcell,Varberg,Rigdon]Calculo.pdf
+[AL DÍA] Analisis 1 y 2\Analysis II (Herbert Amann, Joachim Escher) .pdf
+[AL DÍA] Analisis 1 y 2\Analysis III (Herbert Amann , Joachim Escher) .pdf
+[AL DÍA] Algebra Lineal 1 y 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf
+[AL DÍA] Algebra Lineal 1 y 2\Espacio Vectorial 3.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Fundamentos de Algebra Lineal (Ron Larson).pdf (4 partes)
+[AL DÍA] Algebra Lineal 1 y 2\giancoli1.pdf
+[AL DÍA] Algebra Lineal 1 y 2\SerwayVol2.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Linear Algebra for Data Science.pdf
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[AL DÍA] Topologia\ApuntedeTopología.pdf (2 partes)
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+
+=== SINCRONIZACIÓN FINALIZADA (87 libros procesados) ===
+[OK] Sincronizacion de libros terminada. 
+FIN: 10/10/2026 22:36:26,39 
+ 
+================================================== 
+INICIO: 11/10/2026  7:17:44,97 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\Multivarible calculus.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\Arnol'd - Ordinary Differential Equations.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Applied differential equations with boundary value problems.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[AL DÍA] Analisis 1 y 2\Analysis I (Herbert Amann etc.).pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\rudin-walter-principios-de-anc3a1lisis-matemc3a1ticoc2b4c2b4-tercera-edicic3b3n-mcgraw-hill-mc3a9xico-1980-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Apostol Tom - Calculus Vol 1.pdf
+[AL DÍA] Analisis 1 y 2\Calculo_Diferencial_German_Rojas.pdf
+[AL DÍA] Analisis 1 y 2\CALCULO_LEITHOLD.pdf
+[AL DÍA] Analisis 1 y 2\Calculus - Michael Spivak (3ra Edición).pdf
+[AL DÍA] Analisis 1 y 2\Cours d’analyse 1 Licence 1er semestre.pdf
+[AL DÍA] Analisis 1 y 2\Cálculo - Una variable - Zill & Wright - 4ed.pdf
+[AL DÍA] Analisis 1 y 2\Ejercicios funciones integrables y derivadas.pdf
+[AL DÍA] Analisis 1 y 2\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf
+[AL DÍA] Analisis 1 y 2\extraits_exo_analyse_t2.pdf
+[AL DÍA] Analisis 1 y 2\FUNCIONES REALES.pdf
+[AL DÍA] Analisis 1 y 2\LARA y ARROBA Fundamentos.pdf
+[AL DÍA] Analisis 1 y 2\limites et continuite.pdf
+[AL DÍA] Analisis 1 y 2\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf
+[AL DÍA] Analisis 1 y 2\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf
+[AL DÍA] Analisis 1 y 2\Calculo integral solucionario.pdf
+[AL DÍA] Analisis 1 y 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis 1 y 2\EPN_Grado_CCalculo_NotasClase_2019-A.pdf
+[AL DÍA] Analisis 1 y 2\PINEDA-2ED-ocr.pdf
+[AL DÍA] Analisis 1 y 2\Suceciones en R-Universidad de Chile.pdf
+[AL DÍA] Analisis 1 y 2\Suites_Reelles-Pascal Laine.pdf
+[AL DÍA] Analisis 1 y 2\[Purcell,Varberg,Rigdon]Calculo.pdf
+[AL DÍA] Analisis 1 y 2\Analysis II (Herbert Amann, Joachim Escher) .pdf
+[AL DÍA] Analisis 1 y 2\Analysis III (Herbert Amann , Joachim Escher) .pdf
+[AL DÍA] Algebra Lineal 1 y 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf
+[AL DÍA] Algebra Lineal 1 y 2\Espacio Vectorial 3.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Fundamentos de Algebra Lineal (Ron Larson).pdf (4 partes)
+[AL DÍA] Algebra Lineal 1 y 2\giancoli1.pdf
+[AL DÍA] Algebra Lineal 1 y 2\SerwayVol2.pdf
+[AL DÍA] Algebra Lineal 1 y 2\Linear Algebra for Data Science.pdf
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[AL DÍA] Topologia\ApuntedeTopología.pdf (2 partes)
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+
+=== SINCRONIZACIÓN FINALIZADA (87 libros procesados) ===
+[OK] Sincronizacion de libros terminada. 
+FIN: 11/10/2026  7:18:49,95 
+ 
+================================================== 
+INICIO: 11/10/2026  7:54:27,16 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\Multivarible calculus.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[SUBIENDO] Analysis I (Herbert Amann etc.).pdf (2.38 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Cours d’analyse 1 Licence 1er semestre.pdf (0.40 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf (11.87 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] extraits_exo_analyse_t2.pdf (0.75 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] FUNCIONES REALES.pdf (28.71 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] LARA y ARROBA Fundamentos.pdf (40.88 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf (11.22 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf (21.68 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] EPN_Grado_CCalculo_NotasClase_2019-A.pdf (0.87 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] PINEDA-2ED-ocr.pdf (5.89 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Suceciones en R-Universidad de Chile.pdf (1.82 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Suites_Reelles-Pascal Laine.pdf (0.55 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Apostol Tom - Calculus Vol 1.pdf (31.70 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] CALCULO_LEITHOLD.pdf (38.17 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Calculus - Michael Spivak (3ra Edición).pdf (24.62 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] limites et continuite.pdf (0.46 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Curso de Análise (Elon Lages Lima) (Z-Library).pdf (3.28 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] [Purcell,Varberg,Rigdon]Calculo.pdf (7.93 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Analysis II (Herbert Amann, Joachim Escher) .pdf (2.78 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf (5.29 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf (1.97 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Analysis III (Herbert Amann , Joachim Escher) .pdf (10.29 MB; paginas 1-1)...
+  [DB INSERTADA]
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[AL DÍA] Topologia\ApuntedeTopología.pdf (2 partes)
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+[SUBIENDO] Arnol'd - Ordinary Differential Equations.pdf (5.28 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Calculo_Diferencial_German_Rojas.pdf (1.40 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Ecuaciones Diferenciales Ordinarias\Cálculo - Una variable - Zill & Wright - 4ed.pdf (50.90 MB)...
+[SUBIENDO] Cálculo - Una variable - Zill & Wright - 4ed.pdf (33.85 MB; paginas 1-626)...
+  [DB INSERTADA]
+[SUBIENDO] Ejercicios funciones integrables y derivadas.pdf (1.71 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Calculo integral solucionario.pdf (17.67 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Applied differential equations with boundary value problems.pdf (11.14 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Espacio Vectorial 3.pdf (0.33 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Algebra Lineal\Algebra Lineal  1\Fundamentos de Algebra Lineal (Ron Larson).pdf (135.30 MB)...
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 1 de 4).pdf (32.91 MB; paginas 1-112)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 2 de 4).pdf (34.90 MB; paginas 113-225)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 3 de 4).pdf (33.98 MB; paginas 226-337)...
+  [DB INSERTADA]
+[SUBIENDO] Fundamentos de Algebra Lineal (Ron Larson) (Parte 4 de 4).pdf (33.66 MB; paginas 338-450)...
+  [DB INSERTADA]
+[DIVIDIDO] Algebra Lineal\Algebra Lineal  1\Fundamentos de Algebra Lineal (Ron Larson).pdf: 4 partes PDF validas, numeradas en orden.
+[SUBIENDO] SerwayVol2.pdf (25.96 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] matrices-y-sistemas-lineales-cpc3a1ez.pdf (0.60 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf (34.13 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] giancoli1.pdf (35.80 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Linear Algebra for Data Science.pdf (10.50 MB; paginas 1-1)...
+  [DB INSERTADA]
+
+=== SINCRONIZACIÓN FINALIZADA (86 libros procesados) ===
+[OK] Sincronizacion de libros terminada. 
+FIN: 11/10/2026  8:04:39,84 
+ 
+================================================== 
+INICIO: 13/10/2026 11:44:05,20 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 0 archivos requieren sincronizacion.
+[INCREMENTAL] No hay archivos nuevos o modificados.
+[OK] Sincronizacion academica terminada. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[SUBIENDO] ap_logica_ci.pdf (2.43 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Grupos y anillos.pdf (0.84 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS II.pdf (5.16 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS III.pdf (19.48 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS IV.pdf (2.04 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS V.pdf (2.57 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS VI.pdf (2.65 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ESTRUCTURAS ALGEBRAICAS VII.pdf (1.69 MB; paginas 1-1)...
+  [DB INSERTADA]
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[AL DÍA] Analisis\Analisis 1\Analysis I (Herbert Amann etc.).pdf
+[AL DÍA] Analisis\Analisis 1\Cours d’analyse 1 Licence 1er semestre.pdf
+[AL DÍA] Analisis\Analisis 1\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf
+[AL DÍA] Analisis\Analisis 1\extraits_exo_analyse_t2.pdf
+[AL DÍA] Analisis\Analisis 1\FUNCIONES REALES.pdf
+[AL DÍA] Analisis\Analisis 1\LARA y ARROBA Fundamentos.pdf
+[AL DÍA] Analisis\Analisis 1\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf
+[AL DÍA] Analisis\Analisis 1\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf
+[AL DÍA] Analisis\Analisis 1\EPN_Grado_CCalculo_NotasClase_2019-A.pdf
+[AL DÍA] Analisis\Analisis 1\PINEDA-2ED-ocr.pdf
+[AL DÍA] Analisis\Analisis 1\Suceciones en R-Universidad de Chile.pdf
+[AL DÍA] Analisis\Analisis 1\Suites_Reelles-Pascal Laine.pdf
+[AL DÍA] Analisis\Analisis 2\Apostol Tom - Calculus Vol 1.pdf
+[AL DÍA] Analisis\Analisis 2\CALCULO_LEITHOLD.pdf
+[AL DÍA] Analisis\Analisis 2\Calculus - Michael Spivak (3ra Edición).pdf
+[AL DÍA] Analisis\Analisis 2\limites et continuite.pdf
+[AL DÍA] Analisis\Analisis 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 2\[Purcell,Varberg,Rigdon]Calculo.pdf
+[AL DÍA] Analisis\Analisis 2\Analysis II (Herbert Amann, Joachim Escher) .pdf
+[AL DÍA] Analisis\Analisis 3\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 3\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 3\Analysis III (Herbert Amann , Joachim Escher) .pdf
+[SUBIENDO] Multivarible calculus.pdf (5.70 MB; paginas 1-1)...
+  [DB INSERTADA]
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[AL DÍA] Topologia\ApuntedeTopología.pdf (2 partes)
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Arnol'd - Ordinary Differential Equations.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Calculo_Diferencial_German_Rojas.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Cálculo - Una variable - Zill & Wright - 4ed.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Ejercicios funciones integrables y derivadas.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Calculo integral solucionario.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Applied differential equations with boundary value problems.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\Espacio Vectorial 3.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\Fundamentos de Algebra Lineal (Ron Larson).pdf (4 partes)
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\SerwayVol2.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\giancoli1.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\Linear Algebra for Data Science.pdf
+[COMPRIMIENDO] Introduccion Algebra\INTRODUCCIÓN AL ÁLGEBRA- EDITORIAL MIR.pdf (78.43 MB)...
+[SUBIENDO] INTRODUCCIÓN AL ÁLGEBRA- EDITORIAL MIR (Parte 1 de 2).pdf (38.74 MB; paginas 1-222)...
+  [DB INSERTADA]
+[SUBIENDO] INTRODUCCIÓN AL ÁLGEBRA- EDITORIAL MIR (Parte 2 de 2).pdf (38.73 MB; paginas 223-444)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\INTRODUCCIÓN AL ÁLGEBRA- EDITORIAL MIR.pdf: 2 partes PDF validas, numeradas en orden.
+[SUBIENDO] INTRODUCCIÓN AL ÁLGEBRA.pdf (8.92 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] INTRODUCCIÓN MODERNA AL ÁLGEBRA.pdf (6.62 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] introduccion_al_algebra.pdf (8.92 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Introduccion Algebra\introduccion_al_algebra_mir.pdf (78.43 MB)...
+[SUBIENDO] introduccion_al_algebra_mir (Parte 1 de 2).pdf (38.74 MB; paginas 1-222)...
+  [DB INSERTADA]
+[SUBIENDO] introduccion_al_algebra_mir (Parte 2 de 2).pdf (38.73 MB; paginas 223-444)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\introduccion_al_algebra_mir.pdf: 2 partes PDF validas, numeradas en orden.
+[SUBIENDO] introduccion_moderna_al_algebra.pdf (6.62 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Introduccion Algebra\Lecciones Álgebra Moderna- Robledo.pdf (56.44 MB)...
+[SUBIENDO] Lecciones Álgebra Moderna- Robledo (Parte 1 de 2).pdf (28.24 MB; paginas 1-84)...
+  [DB INSERTADA]
+[SUBIENDO] Lecciones Álgebra Moderna- Robledo (Parte 2 de 2).pdf (27.97 MB; paginas 85-168)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\Lecciones Álgebra Moderna- Robledo.pdf: 2 partes PDF validas, numeradas en orden.
+[SUBIENDO] LIBRO DE ÁLGEBRA.pdf (9.40 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] LIBRO PURO ALGEBRA (NXPowerLite).pdf (2.49 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Introduccion Algebra\Álgebra - Arrayan.pdf (90.11 MB)...
+[SUBIENDO] Álgebra - Arrayan (Parte 1 de 3).pdf (22.49 MB; paginas 1-142)...
+  [DB INSERTADA]
+[SUBIENDO] Álgebra - Arrayan (Parte 2 de 3).pdf (23.14 MB; paginas 143-284)...
+  [DB INSERTADA]
+[SUBIENDO] Álgebra - Arrayan (Parte 3 de 3).pdf (43.76 MB; paginas 285-569)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\Álgebra - Arrayan.pdf: 3 partes PDF validas, numeradas en orden.
+[COMPRIMIENDO] Introduccion Algebra\Álgebra - Proschle.pdf (66.25 MB)...
+[SUBIENDO] Álgebra - Proschle (Parte 1 de 2).pdf (33.14 MB; paginas 1-121)...
+  [DB INSERTADA]
+[SUBIENDO] Álgebra - Proschle (Parte 2 de 2).pdf (32.79 MB; paginas 122-242)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\Álgebra - Proschle.pdf: 2 partes PDF validas, numeradas en orden.
+[SUBIENDO] ÁLGEBRA LEXUS.pdf (4.00 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ÁLGEBRA Recreativa I.pdf (0.83 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ÁLGEBRA RECREATIVA.pdf (42.16 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ALGEBRA UNA REQUI.pdf (0.99 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ALGEBRA_EXTRAORDINARIA.pdf (10.61 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] algebra_recreativa.pdf (42.16 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ÁLGEBRA-COLECCIÓN RACSO.pdf (24.87 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Álgebra-Lumbreras.pdf (20.06 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ÁLGEBRA-UNICIENCIA.pdf (24.57 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] axiomatica.pdf (0.07 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] Challenging Problems in Algebra - Posamentier,Salkind-Dover.pdf (1.68 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] CHINEA CARLOS - Extensiones Algebraicas.PDF (0.09 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] CHINEA CARLOS - Extensiones Algebráicas.PDF (0.09 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] CIENCIAS_Algebra I.pdf (1.13 MB; paginas 1-1)...
+  [DB INSERTADA]
+[COMPRIMIENDO] Introduccion Algebra\CONCEPTOS FUNDAMENTALES DEL ÁLGEBRA BÁSICA.pdf (70.44 MB)...
+[SUBIENDO] CONCEPTOS FUNDAMENTALES DEL ÁLGEBRA BÁSICA (Parte 1 de 2).pdf (35.75 MB; paginas 1-182)...
+  [DB INSERTADA]
+[SUBIENDO] CONCEPTOS FUNDAMENTALES DEL ÁLGEBRA BÁSICA (Parte 2 de 2).pdf (34.55 MB; paginas 183-364)...
+  [DB INSERTADA]
+[DIVIDIDO] Introduccion Algebra\CONCEPTOS FUNDAMENTALES DEL ÁLGEBRA BÁSICA.pdf: 2 partes PDF validas, numeradas en orden.
+[SUBIENDO] conceptos_fundamentales_algebra_MESERVE1.pdf (26.67 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] conceptos_fundamentales_algebra_MESERVE2.pdf (28.93 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] conceptos_fundamentales_algebra_MESERVE3.pdf (15.38 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] curso_de_algebra_superior_KUROSCH1.pdf (18.32 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] curso_de_algebra_superior_KUROSCH2.pdf (14.68 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] curso_de_algebra_superior_KUROSCH3.pdf (18.01 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] curso_de_algebra_superior_KUROSCH4.pdf (11.99 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] ECUACIONES ALGEBRÁICAS DE GRADOS ARBITRARIOS.pdf (7.46 MB; paginas 1-1)...
+  [DB INSERTADA]
+[SUBIENDO] I.M. Yaglom.- Álgebra extraordinaria.pdf (10.61 MB; paginas 1-1)...
+  [DB INSERTADA]
+
+=== SINCRONIZACIÓN FINALIZADA (136 libros procesados) ===
+[OK] Sincronizacion de libros terminada. 
+FIN: 13/10/2026 12:02:01,63 
+ 
+================================================== 
+INICIO: 15/10/2026  8:14:21,88 
+================================================== 
+[ACADEMICO] 
+Migrador 3.0 - lote reanudable e informe de errores
+[OK] Programas, columnas y buckets disponibles. No se han subido archivos.
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 1 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 3 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 4 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/Autonomo - 5 AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Autonomo AF/E1M AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/10 - Tasa de interes AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/11 - Gradiente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/13 - Periodo de gracia AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/14 - Control y reajuste AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/15 - Fondo de amortizacion AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/16 - Renta variable y bonos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/18 - Interes real y primas AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/19 - Finanzas de una empresa AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/20 - Balance general AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/4 - Periodo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/5 - Descuento AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/7 - Anualidades AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/8 - Valor futuro AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Primer EMI AF/9 - Valor Presente AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/11 - Decesiones bajo condiciones de  incertidumbre  AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/12 - Monte Carlo AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/14 - Opciones de intercambio AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/2 - Medidas de desempeño AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/3 - Medidas de pilitica financiera AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/4 - Z-Score Altman AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Analisis Financiero/Segundo EMI AF/5 - Estructura de plazos AF.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Analiticidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Conexidad VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Analiticidad/Funcion exponencial VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Integral curvilinea VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema de deformación de contorno VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral I/Teorema fundamental VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/El indice y la formula de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Calculo Integral II/Principio de deformacion de contornos VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio Cauchy-Bolzano VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de comparacion VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Criterio de convergencia de Dirichley y Abel VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Derivacion de series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de numeros complejos y criterios de convergencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Series de potencia VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Criterios Series/Tarea moral Leibniz VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Desigualdades de Cauchy VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Principio de modulo maximo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Propiedad del valor medio VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Derivadas en C/Teorema de Liouville VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Esfera de Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 1 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Homografias - 2 - Compactacion  del plano complejo VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Mapeo conforme - trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformacion de las lineas a las coordenadas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Transformaciones complejas VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Extension del plano complejo/Trasformaciones de direcciones tangentes VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Holomorfa/Ecuaciones caracteristicas - Cauchy-Riemann VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 1 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Holomorfia y analiticidad - 2 VC.md
+[SIN CAMBIOS] CUARTO SEMESTRE/Variable Compleja/Series Laurent/Teorema de Cauchy con singularidades evitables VC.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Ejercicio D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices Simétricas D.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Matrices.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Polinomios.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Teorema y Corolario.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Diagonalizacion/Valores y vectores propios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Cambio de bases - Matrices Congruentes FB2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Descomposicion FB3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Formas Bilineales FB1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Bilineales/Simetria y antisimetrica FB4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Conjugacion  FC3.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Definidas FC5.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Ejercicios FC4.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 1  FC1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Formas Cuadraticas/Formas Cuadraticas - 2  FC2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Bidual FL2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Funcionales Lineales/Funcionales Lineales FL1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Operadores unitarios ejercicios 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Autonomo - Teoremas Diagonalizacion.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Proceso de Gram Schmidt.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo grupal final.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Personal AL2/Trabajo individual Kolman.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 2.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Algebra Lineal 2/Revalidacion de Conocimientos/Validacion 7.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 1 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 2 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 5 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 6 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 7 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/Autonomo - 8 EA1.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Personal EA/EMI DOC JCGN.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/10 - Homomorfismo de Grupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/11 - Ejercicios homomorfismos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/15 - Ejercicios Anillos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/5 - Subgrupos EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/6 - Rotaciones y reflexiones EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/7 - Clases Laterales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Primer EMI EA/8 - Grupo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/10 - Ideales maximales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/12 - Proposiciones ideales EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/2 - Clases de conjugacion, centro y centralizador EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/3 - Grupos de p-Sylow EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/4 - Dinamica de conjugacion EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/5 - Anillo EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Estructuras Algebraicas/Segundo EMI EA/8 - Anillo Cociente EA.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 1 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 2 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 3 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 6 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 7 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 8 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Personal PyE/Autonomo - 9 PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/1 - Primeras definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2 - Definiciones PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/2.1 Ejercicio basico PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/3 - Sturges, frecuencias y coeficientes PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/5 - Espacio de probabilidades.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/6 - Propiedades y conteo PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Primer EMI PyE/7 - Probabilidad total PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/1 - Modelos discretos PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/2 - Variables aleatorias discretas VAD PyE.md
+[SIN CAMBIOS] SEGUNDO SEMESTRE/Probabilidad y Estadistica/Segundo EMI PyE/5 - Distribuciones VAD PyE.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Compacidad y funciones continuas A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/El cojunto de Cantor no es conexo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Compacidad/Espacio localmente compacto A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Derivada direccional A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Diferenciabilidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Derivadas Parciales/Regla de la Cadena A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Aproximación linean al calculo diferencial local A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Diferencial - Funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Extremos sin restricciones A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Gradiente/Gradiente de una funcion A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Limites dobles/Limites dobles y continuidad A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Autonomo A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Analisis 3/Personal A3/Taller final A3.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 4 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Notas BD/Notas - 5 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 2 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Base de Datos/Personal BD/Autonomo - 3 BD.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de Riccati EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion de ordenes superiores EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion homogeneas EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Ecuacion variables separables EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Teorico Grado 1/Reducción de Orden EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/EDO Virtual Notas/Metodo de sustitucion EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Análisis dinámico de un circuito RLC serie EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Estudio del Fenómeno de Resonancia Mecánica EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación aerodinámica no estacionaria del coeficiente de sustentación EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Proyectos Finales/Modelación de sistemas de enfriamiento mediante Bernoulli EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 2 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 3 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 4 EDO.md
+[SIN CAMBIOS] TERCER SEMESTRE/Ecuaciones Diferenciales Ordinarias/Tareas EDO/Autonomo - 5 EDO.md
+[INCREMENTAL] 3 archivos requieren sincronizacion.
+[LOTE] Procesando solamente 3 archivos.
+
+[1/3] CUARTO SEMESTRE/Analisis 4/Primer EMI A4/1 - Calculo de varias variables - derivadas, extremos y puntos criticos.md
+Conversor 1.3 - separadores Markdown protegidos
+Nota: G:\Mi unidad\Mis archivos\Desktop\Andre\CUARTO SEMESTRE\Analisis 4\Primer EMI A4\1 - Calculo de varias variables - derivadas, extremos y puntos criticos.md
+PDF:  C:\Users\USUARIO\ObsidianPDFs\CUARTO SEMESTRE\Analisis 4\Primer EMI A4\1 - Calculo de varias variables - derivadas, extremos y puntos criticos.pdf
+  Preparando copia temporal de la nota...
+[1/3] Preparando nota y referencias con obsidian-export...
+[2/3] Preparando imagenes y contenido matematico...
+  Imagenes locales: 0
+[3/3] Compilando PDF con Pandoc y XeLaTeX...
+  Sigue trabajando. Si MiKTeX abre una ventana, revisala.
+  Sigue trabajando. Si MiKTeX abre una ventana, revisala.
+  Sigue trabajando. Si MiKTeX abre una ventana, revisala.
+[ERROR] 'charmap' codec can't encode character '\u2202' in position 576: character maps to <undefined>
+[ERROR] Fallo la sincronizacion academica. 
+ 
+[LIBROS] 
+
+=== INICIANDO SINCRONIZACIÓN DE BIBLIOTECA ===
+[AL DÍA] Analisis Financiero\Fundamentos-de-Finanzas-Corporativas_compressed.pdf
+[AL DÍA] Analisis Financiero\MATEMATICAS-FINANCIERAS_DIAZ-AGUILERA.pdf
+[AL DÍA] Analisis Financiero\RATIOSFINANCIEROSYMATEMATICASDELAMER.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 1.pdf
+[AL DÍA] Analisis Financiero\VII y VIII SIMMAC - Parte 2.pdf
+[AL DÍA] Analisis Financiero\Villalobos-J_Matematicas_financieras.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Nuova biblioteca di cultura scientifica) Israel N. Herstein, Antonio Machí - Algebra-Editori Riuniti (1999).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\(Projeto Euclides) Adilson Gonçalves - Introdução à Álgebra-IMPA (2017).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\1120-AC-Basica.Texto.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\2019  Contemporary+Abstract+Algebra-7.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\3AritModular.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Analisis Funcional.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos 2.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ArtinAlgebra.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Estructuras_algebraicas_DR_JuanGarcia.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Fraleigh, John B. - A first course in abstract algebra-Pearson (2014).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\I.N. Herstein - Abstract Algebra-John Wiley and Sons (1996).pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Maximal.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\symmetry-a-mathematical-exploration-2nbsped-3030516687-9783030516680_compress.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Visual-group-theory.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ap_logica_ci.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\Grupos y anillos.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS II.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS III.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS IV.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS V.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS VI.pdf
+[AL DÍA] Estructuras Algebraicas y Algebra Abstracta\ESTRUCTURAS ALGEBRAICAS VII.pdf
+[AL DÍA] Probabilidad y Estadistica\03 Probabilidad.pdf
+[AL DÍA] Probabilidad y Estadistica\05 Va continuas.pdf
+[AL DÍA] Probabilidad y Estadistica\ABC.pdf
+[AL DÍA] Probabilidad y Estadistica\LI OFICIAL [Wackerly,Mendenhall,Scheaffer]Estadistica_Matematica_con_Aplicaciones (2).pdf
+[AL DÍA] Probabilidad y Estadistica\Probabilidad y Estadistica para Ingenieria y Ciencias - Jay Devore - Septima Edicion.pdf
+[AL DÍA] Probabilidad y Estadistica\PTE5_011119.pdf
+[AL DÍA] Probabilidad y Estadistica\tablasdoblesnormal.pdf
+[AL DÍA] Probabilidad y Estadistica\Compilado PyE.pdf
+[AL DÍA] Programacion\advances-in-financial-machine-learning.pdf
+[AL DÍA] Programacion\Bases de Datos.pdf
+[AL DÍA] Programacion\Deep learning with python.pdf
+[AL DÍA] Programacion\ebook-patrones-de-velas-japonesas.pdf
+[AL DÍA] Programacion\Functional Programming in Scala.pdf
+[AL DÍA] Programacion\luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf
+[AL DÍA] Programacion\Manual-de-chartismo_Ferran-Gallofre.pdf
+[AL DÍA] Programacion\Python-for-Data-Analysis.pdf
+[AL DÍA] Programacion\pythoncrashcourse.pdf
+[AL DÍA] Variable Compleja\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers).pdf
+[AL DÍA] Variable Compleja\Complex Variables-640 Fully solved Problems.pdf
+[AL DÍA] Variable Compleja\Real and Complex Analysis Third Edition (Walter Rudin) (Z-Library).pdf
+[AL DÍA] Variable Compleja\The Laplace transform-An introduction.pdf
+[AL DÍA] Analisis\Analisis 1\Analysis I (Herbert Amann etc.).pdf
+[AL DÍA] Analisis\Analisis 1\Cours d’analyse 1 Licence 1er semestre.pdf
+[AL DÍA] Analisis\Analisis 1\EXEMPLE EXAM ANALYSE 1 Universitë Hassan 2 de Casa Blanca.pdf
+[AL DÍA] Analisis\Analisis 1\extraits_exo_analyse_t2.pdf
+[AL DÍA] Analisis\Analisis 1\FUNCIONES REALES.pdf
+[AL DÍA] Analisis\Analisis 1\LARA y ARROBA Fundamentos.pdf
+[AL DÍA] Analisis\Analisis 1\PRINCIPIO DE ANALISIS MATEMATICO RUDIGER.pdf
+[AL DÍA] Analisis\Analisis 1\UNAM INTRODUCCION MATE HAASEL-SULLIVAN- LA SALLE.pdf
+[AL DÍA] Analisis\Analisis 1\EPN_Grado_CCalculo_NotasClase_2019-A.pdf
+[AL DÍA] Analisis\Analisis 1\PINEDA-2ED-ocr.pdf
+[AL DÍA] Analisis\Analisis 1\Suceciones en R-Universidad de Chile.pdf
+[AL DÍA] Analisis\Analisis 1\Suites_Reelles-Pascal Laine.pdf
+[AL DÍA] Analisis\Analisis 2\Apostol Tom - Calculus Vol 1.pdf
+[AL DÍA] Analisis\Analisis 2\CALCULO_LEITHOLD.pdf
+[AL DÍA] Analisis\Analisis 2\Calculus - Michael Spivak (3ra Edición).pdf
+[AL DÍA] Analisis\Analisis 2\limites et continuite.pdf
+[AL DÍA] Analisis\Analisis 2\Curso de Análise (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 2\[Purcell,Varberg,Rigdon]Calculo.pdf
+[AL DÍA] Analisis\Analisis 2\Analysis II (Herbert Amann, Joachim Escher) .pdf
+[AL DÍA] Analisis\Analisis 3\Curso de Análise Vol. 2 (Elon Lages Lima) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 3\Principles of Mathematical Analysis Third Edition (Retyped, Edited, Updated) (Walter Rudin, Anonymous Volunteers) (Z-Library).pdf
+[AL DÍA] Analisis\Analisis 3\Analysis III (Herbert Amann , Joachim Escher) .pdf
+[AL DÍA] Analisis\Analisis 3\Multivarible calculus.pdf
+[AL DÍA] Topologia\a-comprehensive-textbook-of-classical-mathematics-a-contemporary-interpretation-1970nbsped-0387903429-9780387903422_compress.pdf
+[AL DÍA] Topologia\ApuntedeTopología.pdf (2 partes)
+[AL DÍA] Topologia\Topología - James R. Munkres.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Arnol'd - Ordinary Differential Equations.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Calculo_Diferencial_German_Rojas.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Cálculo - Una variable - Zill & Wright - 4ed.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Ejercicios funciones integrables y derivadas.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Calculo integral solucionario.pdf
+[AL DÍA] Ecuaciones Diferenciales Ordinarias\Applied differential equations with boundary value problems.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\Espacio Vectorial 3.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\Fundamentos de Algebra Lineal (Ron Larson).pdf (4 partes)
+[AL DÍA] Algebra Lineal\Algebra Lineal  1\SerwayVol2.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\matrices-y-sistemas-lineales-cpc3a1ez.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\Theory and Problems of Linear Algebra (DR. R.D. SHARMA , DR. RITU JAIN) (Z-Library).pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\giancoli1.pdf
+[AL DÍA] Algebra Lineal\Algebra Lineal 2\Linear Algebra for Data Science.pdf
+[AL DÍA] Introduccion Algebra\INTRODUCCIÓN AL ÁLGEBRA- EDITORIAL MIR.pdf (2 partes)
+[AL DÍA] Introduccion Algebra\INTRODUCCIÓN AL ÁLGEBRA.pdf
+[AL DÍA] Introduccion Algebra\INTRODUCCIÓN MODERNA AL ÁLGEBRA.pdf
+[AL DÍA] Introduccion Algebra\introduccion_al_algebra.pdf
+[AL DÍA] Introduccion Algebra\introduccion_al_algebra_mir.pdf (2 partes)
+[AL DÍA] Introduccion Algebra\introduccion_moderna_al_algebra.pdf
+[AL DÍA] Introduccion Algebra\Lecciones Álgebra Moderna- Robledo.pdf (2 partes)
+[AL DÍA] Introduccion Algebra\LIBRO DE ÁLGEBRA.pdf
+[AL DÍA] Introduccion Algebra\LIBRO PURO ALGEBRA (NXPowerLite).pdf
+[AL DÍA] Introduccion Algebra\Álgebra - Arrayan.pdf (3 partes)
+[AL DÍA] Introduccion Algebra\Álgebra - Proschle.pdf (2 partes)
+[AL DÍA] Introduccion Algebra\ÁLGEBRA LEXUS.pdf
+[AL DÍA] Introduccion Algebra\ÁLGEBRA Recreativa I.pdf
+[AL DÍA] Introduccion Algebra\ÁLGEBRA RECREATIVA.pdf
+[AL DÍA] Introduccion Algebra\ALGEBRA UNA REQUI.pdf
+[AL DÍA] Introduccion Algebra\ALGEBRA_EXTRAORDINARIA.pdf
+[AL DÍA] Introduccion Algebra\algebra_recreativa.pdf
+[AL DÍA] Introduccion Algebra\ÁLGEBRA-COLECCIÓN RACSO.pdf
+[AL DÍA] Introduccion Algebra\Álgebra-Lumbreras.pdf
+[AL DÍA] Introduccion Algebra\ÁLGEBRA-UNICIENCIA.pdf
+[AL DÍA] Introduccion Algebra\axiomatica.pdf
+[AL DÍA] Introduccion Algebra\Challenging Problems in Algebra - Posamentier,Salkind-Dover.pdf
+[AL DÍA] Introduccion Algebra\CHINEA CARLOS - Extensiones Algebraicas.PDF
+[AL DÍA] Introduccion Algebra\CHINEA CARLOS - Extensiones Algebráicas.PDF
+[AL DÍA] Introduccion Algebra\CIENCIAS_Algebra I.pdf
+[AL DÍA] Introduccion Algebra\CONCEPTOS FUNDAMENTALES DEL ÁLGEBRA BÁSICA.pdf (2 partes)
+[AL DÍA] Introduccion Algebra\conceptos_fundamentales_algebra_MESERVE1.pdf
+[AL DÍA] Introduccion Algebra\conceptos_fundamentales_algebra_MESERVE2.pdf
+[AL DÍA] Introduccion Algebra\conceptos_fundamentales_algebra_MESERVE3.pdf
+[AL DÍA] Introduccion Algebra\curso_de_algebra_superior_KUROSCH1.pdf
+[AL DÍA] Introduccion Algebra\curso_de_algebra_superior_KUROSCH2.pdf
+[AL DÍA] Introduccion Algebra\curso_de_algebra_superior_KUROSCH3.pdf
+Traceback (most recent call last):
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 416, in <module>
+    sincronizar()
+    ~~~~~~~~~~~^^
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 229, in sincronizar
+    file_hash = calcular_sha256(full_path)
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 47, in calcular_sha256
+    for byte_block in iter(lambda: f.read(65536), b""):
+                      ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Mi unidad\Mis archivos\Desktop\repositorio-react-completo\repositorio-react\sincronizar_biblioteca.py", line 47, in <lambda>
+    for byte_block in iter(lambda: f.read(65536), b""):
+                                   ~~~~~~^^^^^^^
+OSError: [Errno 22] Invalid argument
+[ERROR] Fallo la sincronizacion de libros. 
+FIN: 15/10/2026  8:22:44,20 
+ 
+
+==================================================
+REINTENTO LIBROS: 2026-10-15 08:26:09
+==================================================
+ 
+ = = =   I N I C I A N D O   S I N C R O N I Z A C I ýÿN   D E   B I B L I O T E C A   = = =  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ F u n d a m e n t o s - d e - F i n a n z a s - C o r p o r a t i v a s _ c o m p r e s s e d . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ M A T E M A T I C A S - F I N A N C I E R A S _ D I A Z - A G U I L E R A . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ R A T I O S F I N A N C I E R O S Y M A T E M A T I C A S D E L A M E R . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ V I I   y   V I I I   S I M M A C   -   P a r t e   1 . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ V I I   y   V I I I   S I M M A C   -   P a r t e   2 . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s   F i n a n c i e r o \ V i l l a l o b o s - J _ M a t e m a t i c a s _ f i n a n c i e r a s . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ ( N u o v a   b i b l i o t e c a   d i   c u l t u r a   s c i e n t i f i c a )   I s r a e l   N .   H e r s t e i n ,   A n t o n i o   M a c h ýÿ  -   A l g e b r a - E d i t o r i   R i u n i t i   ( 1 9 9 9 ) . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ ( P r o j e t o   E u c l i d e s )   A d i l s o n   G o n ýÿa l v e s   -   I n t r o d u ýÿýÿo   ýÿ  ýÿl g e b r a - I M P A   ( 2 0 1 7 ) . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ 1 1 2 0 - A C - B a s i c a . T e x t o . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ 2 0 1 9     C o n t e m p o r a r y + A b s t r a c t + A l g e b r a - 7 . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ 3 A r i t M o d u l a r . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ A n a l i s i s   F u n c i o n a l . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ A n i l l o s   2 . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ A n i l l o s . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ A r t i n A l g e b r a . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ D a v i d   S .   D u m m i t ,   R i c h a r d   M .   F o o t e   -   A b s t r a c t   A l g e b r a - W i l e y   ( 2 0 0 4 ) . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E s t r u c t u r a s _ a l g e b r a i c a s _ D R _ J u a n G a r c i a . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ F r a l e i g h ,   J o h n   B .   -   A   f i r s t   c o u r s e   i n   a b s t r a c t   a l g e b r a - P e a r s o n   ( 2 0 1 4 ) . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ I . N .   H e r s t e i n   -   A b s t r a c t   A l g e b r a - J o h n   W i l e y   a n d   S o n s   ( 1 9 9 6 ) . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ M a x i m a l . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ s y m m e t r y - a - m a t h e m a t i c a l - e x p l o r a t i o n - 2 n b s p e d - 3 0 3 0 5 1 6 6 8 7 - 9 7 8 3 0 3 0 5 1 6 6 8 0 _ c o m p r e s s . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ V i s u a l - g r o u p - t h e o r y . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ a p _ l o g i c a _ c i . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ G r u p o s   y   a n i l l o s . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   I I . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   I I I . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   I V . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   V . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   V I . p d f  
+ [ A L   D ýÿA ]   E s t r u c t u r a s   A l g e b r a i c a s   y   A l g e b r a   A b s t r a c t a \ E S T R U C T U R A S   A L G E B R A I C A S   V I I . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ 0 3   P r o b a b i l i d a d . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ 0 5   V a   c o n t i n u a s . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ A B C . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ L I   O F I C I A L   [ W a c k e r l y , M e n d e n h a l l , S c h e a f f e r ] E s t a d i s t i c a _ M a t e m a t i c a _ c o n _ A p l i c a c i o n e s   ( 2 ) . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ P r o b a b i l i d a d   y   E s t a d i s t i c a   p a r a   I n g e n i e r i a   y   C i e n c i a s   -   J a y   D e v o r e   -   S e p t i m a   E d i c i o n . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ P T E 5 _ 0 1 1 1 1 9 . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ t a b l a s d o b l e s n o r m a l . p d f  
+ [ A L   D ýÿA ]   P r o b a b i l i d a d   y   E s t a d i s t i c a \ C o m p i l a d o   P y E . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ a d v a n c e s - i n - f i n a n c i a l - m a c h i n e - l e a r n i n g . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ B a s e s   d e   D a t o s . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ D e e p   l e a r n i n g   w i t h   p y t h o n . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ e b o o k - p a t r o n e s - d e - v e l a s - j a p o n e s a s . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ F u n c t i o n a l   P r o g r a m m i n g   i n   S c a l a . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ l u c i a n o - r a m a l h o - f l u e n t - p y t h o n _ - c l e a r - c o n c i s e - a n d - e f f e c t i v e - p r o g r a m m i n g - o r e i l l y - m e d i a - 2 0 2 2 . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ M a n u a l - d e - c h a r t i s m o _ F e r r a n - G a l l o f r e . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ P y t h o n - f o r - D a t a - A n a l y s i s . p d f  
+ [ A L   D ýÿA ]   P r o g r a m a c i o n \ p y t h o n c r a s h c o u r s e . p d f  
+ [ A L   D ýÿA ]   V a r i a b l e   C o m p l e j a \ P r i n c i p l e s   o f   M a t h e m a t i c a l   A n a l y s i s   T h i r d   E d i t i o n   ( R e t y p e d ,   E d i t e d ,   U p d a t e d )   ( W a l t e r   R u d i n ,   A n o n y m o u s   V o l u n t e e r s ) . p d f  
+ [ A L   D ýÿA ]   V a r i a b l e   C o m p l e j a \ C o m p l e x   V a r i a b l e s - 6 4 0   F u l l y   s o l v e d   P r o b l e m s . p d f  
+ [ A L   D ýÿA ]   V a r i a b l e   C o m p l e j a \ R e a l   a n d   C o m p l e x   A n a l y s i s   T h i r d   E d i t i o n   ( W a l t e r   R u d i n )   ( Z - L i b r a r y ) . p d f  
+ [ A L   D ýÿA ]   V a r i a b l e   C o m p l e j a \ T h e   L a p l a c e   t r a n s f o r m - A n   i n t r o d u c t i o n . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ A n a l y s i s   I   ( H e r b e r t   A m a n n   e t c . ) . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ C o u r s   d ýÿa n a l y s e   1   L i c e n c e   1 e r   s e m e s t r e . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ E X E M P L E   E X A M   A N A L Y S E   1   U n i v e r s i t ýÿ  H a s s a n   2   d e   C a s a   B l a n c a . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ e x t r a i t s _ e x o _ a n a l y s e _ t 2 . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ F U N C I O N E S   R E A L E S . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ L A R A   y   A R R O B A   F u n d a m e n t o s . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ P R I N C I P I O   D E   A N A L I S I S   M A T E M A T I C O   R U D I G E R . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ U N A M   I N T R O D U C C I O N   M A T E   H A A S E L - S U L L I V A N -   L A   S A L L E . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ E P N _ G r a d o _ C C a l c u l o _ N o t a s C l a s e _ 2 0 1 9 - A . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ P I N E D A - 2 E D - o c r . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ S u c e c i o n e s   e n   R - U n i v e r s i d a d   d e   C h i l e . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   1 \ S u i t e s _ R e e l l e s - P a s c a l   L a i n e . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ A p o s t o l   T o m   -   C a l c u l u s   V o l   1 . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ C A L C U L O _ L E I T H O L D . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ C a l c u l u s   -   M i c h a e l   S p i v a k   ( 3 r a   E d i c i ýÿn ) . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ l i m i t e s   e t   c o n t i n u i t e . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ C u r s o   d e   A n ýÿl i s e   ( E l o n   L a g e s   L i m a )   ( Z - L i b r a r y ) . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ [ P u r c e l l , V a r b e r g , R i g d o n ] C a l c u l o . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   2 \ A n a l y s i s   I I   ( H e r b e r t   A m a n n ,   J o a c h i m   E s c h e r )   . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   3 \ C u r s o   d e   A n ýÿl i s e   V o l .   2   ( E l o n   L a g e s   L i m a )   ( Z - L i b r a r y ) . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   3 \ P r i n c i p l e s   o f   M a t h e m a t i c a l   A n a l y s i s   T h i r d   E d i t i o n   ( R e t y p e d ,   E d i t e d ,   U p d a t e d )   ( W a l t e r   R u d i n ,   A n o n y m o u s   V o l u n t e e r s )   ( Z - L i b r a r y ) . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   3 \ A n a l y s i s   I I I   ( H e r b e r t   A m a n n   ,   J o a c h i m   E s c h e r )   . p d f  
+ [ A L   D ýÿA ]   A n a l i s i s \ A n a l i s i s   3 \ M u l t i v a r i b l e   c a l c u l u s . p d f  
+ [ A L   D ýÿA ]   T o p o l o g i a \ a - c o m p r e h e n s i v e - t e x t b o o k - o f - c l a s s i c a l - m a t h e m a t i c s - a - c o n t e m p o r a r y - i n t e r p r e t a t i o n - 1 9 7 0 n b s p e d - 0 3 8 7 9 0 3 4 2 9 - 9 7 8 0 3 8 7 9 0 3 4 2 2 _ c o m p r e s s . p d f  
+ [ A L   D ýÿA ]   T o p o l o g i a \ A p u n t e d e T o p o l o g ýÿa . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   T o p o l o g i a \ T o p o l o g ýÿa   -   J a m e s   R .   M u n k r e s . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ A r n o l ' d   -   O r d i n a r y   D i f f e r e n t i a l   E q u a t i o n s . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ C a l c u l o _ D i f e r e n c i a l _ G e r m a n _ R o j a s . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ C ýÿl c u l o   -   U n a   v a r i a b l e   -   Z i l l   &   W r i g h t   -   4 e d . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ E j e r c i c i o s   f u n c i o n e s   i n t e g r a b l e s   y   d e r i v a d a s . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ C a l c u l o   i n t e g r a l   s o l u c i o n a r i o . p d f  
+ [ A L   D ýÿA ]   E c u a c i o n e s   D i f e r e n c i a l e s   O r d i n a r i a s \ A p p l i e d   d i f f e r e n t i a l   e q u a t i o n s   w i t h   b o u n d a r y   v a l u e   p r o b l e m s . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l     1 \ E s p a c i o   V e c t o r i a l   3 . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l     1 \ F u n d a m e n t o s   d e   A l g e b r a   L i n e a l   ( R o n   L a r s o n ) . p d f   ( 4   p a r t e s )  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l     1 \ S e r w a y V o l 2 . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l   2 \ m a t r i c e s - y - s i s t e m a s - l i n e a l e s - c p c 3 a 1 e z . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l   2 \ T h e o r y   a n d   P r o b l e m s   o f   L i n e a r   A l g e b r a   ( D R .   R . D .   S H A R M A   ,   D R .   R I T U   J A I N )   ( Z - L i b r a r y ) . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l   2 \ g i a n c o l i 1 . p d f  
+ [ A L   D ýÿA ]   A l g e b r a   L i n e a l \ A l g e b r a   L i n e a l   2 \ L i n e a r   A l g e b r a   f o r   D a t a   S c i e n c e . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ I N T R O D U C C I ýÿN   A L   ýÿL G E B R A -   E D I T O R I A L   M I R . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ I N T R O D U C C I ýÿN   A L   ýÿL G E B R A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ I N T R O D U C C I ýÿN   M O D E R N A   A L   ýÿL G E B R A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ i n t r o d u c c i o n _ a l _ a l g e b r a . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ i n t r o d u c c i o n _ a l _ a l g e b r a _ m i r . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ i n t r o d u c c i o n _ m o d e r n a _ a l _ a l g e b r a . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ L e c c i o n e s   ýÿl g e b r a   M o d e r n a -   R o b l e d o . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ L I B R O   D E   ýÿL G E B R A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ L I B R O   P U R O   A L G E B R A   ( N X P o w e r L i t e ) . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿl g e b r a   -   A r r a y a n . p d f   ( 3   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿl g e b r a   -   P r o s c h l e . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿL G E B R A   L E X U S . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿL G E B R A   R e c r e a t i v a   I . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿL G E B R A   R E C R E A T I V A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ A L G E B R A   U N A   R E Q U I . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ A L G E B R A _ E X T R A O R D I N A R I A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ a l g e b r a _ r e c r e a t i v a . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿL G E B R A - C O L E C C I ýÿN   R A C S O . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿl g e b r a - L u m b r e r a s . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ ýÿL G E B R A - U N I C I E N C I A . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ a x i o m a t i c a . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ C h a l l e n g i n g   P r o b l e m s   i n   A l g e b r a   -   P o s a m e n t i e r , S a l k i n d - D o v e r . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ C H I N E A   C A R L O S   -   E x t e n s i o n e s   A l g e b r a i c a s . P D F  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ C H I N E A   C A R L O S   -   E x t e n s i o n e s   A l g e b r ýÿi c a s . P D F  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ C I E N C I A S _ A l g e b r a   I . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ C O N C E P T O S   F U N D A M E N T A L E S   D E L   ýÿL G E B R A   B ýÿS I C A . p d f   ( 2   p a r t e s )  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c o n c e p t o s _ f u n d a m e n t a l e s _ a l g e b r a _ M E S E R V E 1 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c o n c e p t o s _ f u n d a m e n t a l e s _ a l g e b r a _ M E S E R V E 2 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c o n c e p t o s _ f u n d a m e n t a l e s _ a l g e b r a _ M E S E R V E 3 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c u r s o _ d e _ a l g e b r a _ s u p e r i o r _ K U R O S C H 1 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c u r s o _ d e _ a l g e b r a _ s u p e r i o r _ K U R O S C H 2 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c u r s o _ d e _ a l g e b r a _ s u p e r i o r _ K U R O S C H 3 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ c u r s o _ d e _ a l g e b r a _ s u p e r i o r _ K U R O S C H 4 . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ E C U A C I O N E S   A L G E B R ýÿI C A S   D E   G R A D O S   A R B I T R A R I O S . p d f  
+ [ A L   D ýÿA ]   I n t r o d u c c i o n   A l g e b r a \ I . M .   Y a g l o m . -   ýÿl g e b r a   e x t r a o r d i n a r i a . p d f  
+  
+ = = =   S I N C R O N I Z A C I ýÿN   F I N A L I Z A D A   ( 1 3 6   l i b r o s   p r o c e s a d o s )   = = =  
+ 
+FIN REINTENTO LIBROS: 2026-10-15 08:26:53 - codigo 0

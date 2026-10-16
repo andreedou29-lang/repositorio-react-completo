@@ -53,6 +53,7 @@ export default function App() {
   } = useBookRepository(setError);
 
   const [adminOpen, setAdminOpen] = useState(false);
+  const [entered, setEntered] = useState(false);
   const [section, setSection] = useState<'archive' | 'books'>('archive');
   const [selectedBook, setSelectedBook] = useState<string | null>(null);
 
@@ -112,6 +113,18 @@ export default function App() {
         <p className="eyebrow">REPOSITORIO ACADÉMICO</p>
         <h1>Configura tu biblioteca</h1>
       </main>
+    );
+  }
+
+  if (!entered) {
+    return (
+      <button
+        className="cover-screen"
+        aria-label={`Entrar a ${appName}`}
+        onClick={() => setEntered(true)}
+      >
+        <img className="cover-image" src="/portada-oficial.png" alt="" />
+      </button>
     );
   }
 
@@ -393,5 +406,3 @@ export default function App() {
     </div>
   );
 }
-
-

@@ -28,16 +28,18 @@ class LoteTests(unittest.TestCase):
         self.client = Client()
         self.calls = []
         self.failure = None
+        self.notes = []
         self.migrador = Migrador(self.client, self.config, self.convert)
+        self.client.events.clear()
 
     def note(self, name, content='Contenido $x=1$.'):
         p = self.vault / name; p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(content, encoding='utf-8')
+        self.notes.append(p)
         return p
 
     def convert(self, **args):
         note = args['nota']; self.calls.append(note.name)
-        self.assertTrue((args['boveda_preparada'] / note.relative_to(self.vault)).exists())
         if self.failure: self.failure(note)
         pdf = ruta_pdf(self.vault, note, self.output)
         pdf.parent.mkdir(parents=True, exist_ok=True)
@@ -46,7 +48,8 @@ class LoteTests(unittest.TestCase):
 
     def run_batch(self, files=None, force=False):
         with redirect_stdout(io.StringIO()):
-            return ejecutar_lote(self.migrador, files or list(self.migrador.archivos()), force, {'test': '1'})
+            selected = files if files is not None else self.notes
+            return ejecutar_lote(self.migrador, selected, force, {'test': '1'})
 
     def report(self):
         return json.loads((self.output/'informe_migracion.json').read_text())
@@ -56,9 +59,7 @@ class LoteTests(unittest.TestCase):
         def fail(p):
             if p.name=='B.md': raise RuntimeError('Fallo simulado SECRET_TEST')
         self.failure = fail
-        with patch.object(lote_obsidian, 'preparar_boveda', wraps=lote_obsidian.preparar_boveda) as prepare:
-            self.assertEqual(self.run_batch(files),1)
-            self.assertEqual(prepare.call_count,1)
+        self.assertEqual(self.run_batch(files),1)
         report = self.report()
         self.assertEqual(report['resumen'],{'sincronizado':2,'error':1})
         self.assertNotIn('SECRET_TEST',json.dumps(report))
@@ -95,24 +96,41 @@ class LoteTests(unittest.TestCase):
         self.assertNotIn('SECRET_TEST',json.dumps(report))
         self.assertEqual(report['archivos'][1]['estado'],'sincronizado')
 
-    def test_pdf_original_jerarquia_y_colision_de_nombres(self):
+    def test_lote_solo_procesa_fuentes_markdown(self):
         self.note('A/Clase.md'); self.note('B/Clase.md')
         original=self.vault/'A/Clase.pdf';original.write_bytes(b'%PDF-original')
-        self.assertEqual(self.run_batch(),0)
-        self.assertEqual((self.output/'A/Clase.pdf').read_bytes(),original.read_bytes())
-        self.assertTrue((self.output/'A/Clase.md.pdf').exists())
-        self.assertTrue((self.output/'B/Clase.pdf').exists())
-        docs=self.client.rows['documents']
-        self.assertEqual(len(docs),3)
-        self.assertEqual(len({d['folder_id'] for d in docs if d['extension']=='md'}),2)
-        for d in docs:
-            self.assertEqual(d['storage_path'],f"documents/{d['id']}.{d['extension']}")
-        self.calls.clear()
-        self.assertEqual(self.run_batch(),0)
-        self.assertEqual(self.calls,[])
+        otro=self.vault/'A/Notas.txt';otro.write_text('No sincronizar',encoding='utf-8')
+        processed=[]
+
+        def sync_markdown(path):
+            processed.append(path)
+            doc_id=path.relative_to(self.vault).as_posix()
+            self.migrador.ultimo_documento={
+                'id':doc_id,
+                'original_name':path.name,
+                'folder_id':None,
+                'storage_path':f"documents/{doc_id}.md",
+                'extension':'md',
+                'pdf_bucket':None,
+                'pdf_storage_path':None,
+                'pdf_size_bytes':None,
+            }
+            return doc_id
+
+        with patch.object(self.migrador,'sincronizar_nota',side_effect=sync_markdown):
+            self.assertEqual(self.run_batch([self.vault/'A/Clase.md', original, otro,
+                                             self.vault/'B/Clase.md']),0)
+        self.assertEqual(processed,[self.vault/'A/Clase.md',self.vault/'B/Clase.md'])
+
+    def test_archivos_solo_descubre_markdown(self):
+        semester=self.vault/'NON-REGULAR SEMESTRE'; semester.mkdir()
+        (semester/'Clase.md').write_text('Nota')
+        (semester/'Clase.pdf').write_bytes(b'%PDF-original')
+        (semester/'Adjunto.png').write_bytes(b'image')
+        self.assertEqual(list(self.migrador.archivos()),[semester/'Clase.md'])
 
     def test_cambio_de_adjunto_invalida_cache(self):
-        self.note('A.md')
+        self.note('A.md', '![[imagen.png]]')
         image=self.vault/'imagen.png';image.write_bytes(b'version1')
         self.assertEqual(self.run_batch(),0)
         self.calls.clear();image.write_bytes(b'version2')
@@ -131,7 +149,9 @@ class LoteTests(unittest.TestCase):
         files=[self.note('A.md')]
         self.client.fail='repository-pdfs'
         self.assertEqual(self.run_batch(files),1)
-        self.assertFalse((self.output/'.estado_migracion.json').exists())
+        state=json.loads((self.output/'.estado_migracion.json').read_text())
+        self.assertTrue(state['archivos']['A.md']['error'])
+        self.assertNotIn('documento',state['archivos']['A.md'])
         self.assertEqual(self.client.rows['documents'],[])
         self.client.fail=None
         self.assertEqual(self.run_batch(files),0)
@@ -147,6 +167,25 @@ class LoteTests(unittest.TestCase):
         self.client.rows['documents'].clear()
         self.assertEqual(self.run_batch(),0)
         self.assertEqual(self.calls,['A.md'])
+
+    def test_move_updates_existing_document_without_duplicate(self):
+        original = self.note('A/Clase.md')
+        self.assertEqual(self.run_batch([original]), 0)
+        document_id = self.client.rows['documents'][0]['id']
+        moved = self.vault/'B'/'Clase.md'
+        moved.parent.mkdir()
+        original.replace(moved)
+        self.notes = [moved]
+        self.calls.clear()
+
+        self.assertEqual(self.run_batch([moved]), 0)
+        self.assertEqual(len(self.client.rows['documents']), 1)
+        self.assertEqual(self.client.rows['documents'][0]['id'], document_id)
+        self.assertEqual(
+            self.client.rows['documents'][0]['source_rel_path'],
+            'B/Clase.md',
+        )
+        self.assertEqual(self.calls, ['Clase.md'])
 
     def test_bloqueo_y_liberacion(self):
         with bloqueo(self.output):

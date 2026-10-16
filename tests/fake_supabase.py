@@ -7,8 +7,13 @@ class Query:
         self.action = 'read'
         self.filters = []
         self.maximum = 1000
+        self.start = 0
     def select(self, fields): return self
     def limit(self, maximum): self.maximum = maximum; return self
+    def range(self, start, end):
+        self.start = start
+        self.maximum = end - start + 1
+        return self
     def eq(self, name, value): self.filters.append((name, value)); return self
     def is_(self, name, value):
         assert value == 'null'
@@ -18,7 +23,8 @@ class Query:
     def execute(self):
         rows = self.client.rows[self.table]
         found = [r for r in rows if all(r.get(k) == v for k, v in self.filters)]
-        if self.action == 'read': return SimpleNamespace(data=copy.deepcopy(found[:self.maximum]))
+        if self.action == 'read':
+            return SimpleNamespace(data=copy.deepcopy(found[self.start:self.start + self.maximum]))
         if self.table == 'documents':
             # Reproduce la regla usada por el migrador original del proyecto.
             for row in ([self.payload] if self.action == 'insert' else found):
@@ -54,5 +60,4 @@ class Client:
     def table(self, name): return Query(self, name)
     def from_(self, bucket): return Bucket(self, bucket)
     def get_bucket(self, name): return SimpleNamespace(public=(name == 'repository-images'))
-
 

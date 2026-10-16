@@ -7,13 +7,13 @@ Este paquete actualiza la integración que ya tienes configurada. No es un proye
 
 | Archivo de la bóveda | Resultado |
 | --- | --- |
-| `.md` | Compila un PDF con texto, fórmulas, callouts e imágenes locales; lo sube a `repository-pdfs` y actualiza su documento. |
-| `.pdf` existente | Lo copia y sube sin recompilar, usando `repository-files` y el lector de documentos existente. |
+| `.md` | Compila un PDF con texto, fórmulas, callouts e imágenes locales; sube el Markdown y el PDF generado, y actualiza su documento. |
+| Archivos que no son `.md` (incluidos los PDF existentes) | Se omiten como documentos de origen; no se suben ni generan errores individuales en el lote. |
 | `.png`, `.jpg`, `.jpeg` referenciados | Se incorporan al PDF de la nota. No se crean documentos de galería separados. |
 
 Se mantiene la jerarquía de carpetas de cada documento en la web. Las carpetas vacías o que solo contienen adjuntos no se crean como carpetas nuevas del catálogo. `.obsidian` y otras carpetas internas ocultas se omiten.
 
-Los originales permanecen en `C:\Users\USUARIO\OneDrive\Andre`. Los PDF de lectura se guardan bajo `C:\Users\USUARIO\Desktop\Bobeda\PDFs`, respetando las subcarpetas. Si conviven `Clase.md` y `Clase.pdf`, el resultado del Markdown se llama `Clase.md.pdf` para conservar ambos.
+Los originales permanecen en `C:\Users\USUARIO\OneDrive\Andre`. Los PDF generados para lectura se guardan bajo `C:\Users\USUARIO\Desktop\Bobeda\PDFs`, respetando las subcarpetas. Las imágenes y otros adjuntos solo se leen cuando una nota los referencia; no se sincronizan como documentos independientes.
 
 La web muestra el PDF compilado. Su paginación y tipografía dependen de la plantilla; no es una captura idéntica de la interfaz de Obsidian.
 
@@ -46,11 +46,11 @@ Set-Location -LiteralPath "C:\Users\USUARIO\Desktop\repositorio-react-completo\r
 py -3 .\migrar_obsidian.py --todo
 ```
 
-La consola debe empezar con `Migrador 3.0 - lote reanudable e informe de errores`. Este comando comprueba la configuración, prepara una sola copia temporal de la bóveda y procesa todos los Markdown y PDF existentes. Muestra el progreso `[n/total]` y un resumen final.
+La consola debe empezar con `Migrador 3.0 - lote reanudable e informe de errores`. Este comando comprueba la configuración y procesa solo los archivos Markdown (`.md`). Los PDF ya existentes y los demás tipos se omiten; el conversor sí genera y sube el PDF de cada Markdown. Muestra el progreso `[n/total]` y un resumen final.
 
 Un fallo de conversión o subida se registra y el lote continúa con los demás documentos. Una imagen faltante o ambigua impide publicar esa nota incompleta. La versión PDF anterior de esa nota continúa disponible si ya existía. Si detecta cambios en archivos durante el lote, se detiene: repite el comando cuando termines de editar.
 
-La preparación inicial lee los archivos y puede tardar con una bóveda grande o con OneDrive. Un archivo inaccesible durante esa preparación puede impedir iniciar el lote; el informe lo indica. No se corrige borrando notas.
+El lote comprueba las notas y los adjuntos enlazados antes de publicar cada resultado. Un archivo que cambie o desaparezca durante la conversión detiene el proceso para evitar registrar una versión incoherente.
 
 Si una terminal antigua de VS Code vuelve a indicar que no encuentra Pandoc o XeLaTeX, actualiza su PATH y repite el comando:
 
@@ -61,14 +61,14 @@ $env:Path += ";" + [Environment]::GetEnvironmentVariable("Path", "User")
 
 ## Reanudar e informe único
 
-Puedes detener el lote con Ctrl+C y volver a ejecutar `--todo`. El estado local registra cada documento después de confirmar la subida y la actualización de la base de datos. Si la bóveda y el código no cambiaron, se omiten los éxitos que conservan su PDF local y su registro remoto; se reintentan los fallidos y pendientes.
+Puedes detener el lote con Ctrl+C y volver a ejecutar `--todo`. El estado local registra cada documento después de confirmar la subida y la actualización de la base de datos. Se omiten las notas cuyo contenido y adjuntos enlazados no cambiaron, si el documento remoto sigue en la misma ruta y conserva sus metadatos PDF, y si el PDF local coincide con el hash registrado. Se reintentan los fallidos, los archivos movidos, los documentos remotos ausentes y los PDF locales modificados o eliminados.
 
-La comprobación de cambios es conservadora: cualquier cambio en notas, adjuntos, estilos, código o versiones de las herramientas invalida el estado del lote. Se recompilan los documentos para incluir posibles dependencias entre notas. No es todavía una reconstrucción selectiva por dependencias. La primera ejecución con 3.0 vuelve a procesar los documentos subidos con versiones anteriores.
+Los archivos con el mismo contenido pero rutas diferentes se conservan como documentos distintos. Al mover una nota, el migrador actualiza el registro existente cuando puede identificarlo sin ambigüedad, en vez de crear un duplicado.
 
 El resumen y las causas de error se guardan en:
 
-- `C:\Users\USUARIO\Desktop\Bobeda\PDFs\informe_migracion.json`
-- `C:\Users\USUARIO\Desktop\Bobeda\PDFs\informe_migracion.csv`
+- `OBSIDIAN_PDF_OUTPUT\informe_migracion.json`
+- `OBSIDIAN_PDF_OUTPUT\informe_migracion.csv`
 
 Si hay errores, comparte primero el JSON completo: reúne archivos afectados, causas, categorías, progreso y rutas a registros. No necesitas copiar la consola nota por nota. Los registros de conversión completos quedan junto a cada PDF. El informe puede contener fragmentos de tus notas en los mensajes de compilación.
 
@@ -78,7 +78,7 @@ El estado se guarda en `.estado_migracion.json`, dentro de la salida. No contien
 py -3 .\migrar_obsidian.py --todo --forzar
 ```
 
-`--comprobar` sigue disponible para revisar herramientas, columnas y buckets sin subir archivos. `--nota "RUTA"` permite procesar un archivo concreto, pero no es necesario para la migración completa.
+`--comprobar` sigue disponible para revisar herramientas, columnas y buckets sin subir archivos. `--nota "RUTA"` permite procesar un archivo `.md` concreto; otros tipos se rechazan.
 
 ## 3. Abrir los documentos desde React
 
@@ -96,7 +96,7 @@ npm.cmd run dev
 
 Abre http://localhost:5173/, inicia sesión y recarga con Ctrl+F5. Una nota sincronizada debe abrir su PDF. El visor permite abrirlo en otra pestaña y descargarlo. Si aparece `Vista Markdown`, ese documento aún no tiene PDF sincronizado; revisa su resultado en el informe.
 
-La función privada `serve-pdf` debe estar desplegada para leer los PDF generados. Si ya desplegaste la del paquete anterior, no requiere cambios. Si falta, utiliza el archivo completo `supabase/functions/serve-pdf/index.ts` del paquete para crear una función con el nombre exacto `serve-pdf`; es independiente y no importa `handler.mjs`. Mantén la verificación JWT y el bucket `repository-pdfs` privado. Conserva `serve-document`, que sirve los PDF originales y otros documentos.
+La función privada `serve-pdf` debe estar desplegada para leer los PDF generados. Si ya desplegaste la del paquete anterior, no requiere cambios. Si falta, utiliza el archivo completo `supabase/functions/serve-pdf/index.ts` del paquete para crear una función con el nombre exacto `serve-pdf`; es independiente y no importa `handler.mjs`. Mantén la verificación JWT y el bucket `repository-pdfs` privado. Conserva `serve-document` para los documentos que se carguen por las demás funciones de la aplicación.
 
 No hace falta ejecutar SQL nuevo: se utilizan las columnas y buckets que ya funcionaron en la subida de Class 6. Las claves privilegiadas permanecen en Python/Edge Functions; no se colocan en variables `VITE_*`.
 

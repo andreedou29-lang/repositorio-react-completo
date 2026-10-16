@@ -101,13 +101,15 @@ where original_name = 'Class 6- 30-04-2026.md';
 
 ## 5. Resto de la boveda
 
-Despues de validar esa nota, el modo completo es:
+Despues de validar esa nota, el modo completo procesa únicamente archivos `.md`; los PDF existentes y otros
+tipos se omiten. El PDF de lectura generado a partir de cada Markdown sí se
+sube:
 
 ```powershell
 py -3 .\migrar_obsidian.py --todo
 ```
 
-Recorre las notas secuencialmente. Si una falla, informa el error y continua
+Recorre las notas Markdown secuencialmente. Si una falla, informa el error y continua
 con las demas. El codigo de salida es distinto de cero si hubo fallos.
 Compila de nuevo cada nota seleccionada; todavia no hay watcher ni cache de
 dependencias. Ejecuta una sola instancia del migrador a la vez.
@@ -172,3 +174,34 @@ Referencias oficiales consultadas:
 - https://supabase.com/docs/reference/python/storage-from-upload
 - https://supabase.com/docs/reference/python/storage-getbucket
 - https://supabase.com/docs/reference/python/update
+
+## Automatizacion vigente desde Google Drive
+
+La tarea `Sincronizacion Biblioteca` se ejecuta los miercoles, viernes y
+domingos a las 2:00 a. m. y usa `sincronizacion_noche.bat` en la carpeta del
+proyecto. El archivo `.env` define `OBSIDIAN_VAULT_PATH`; la biblioteca de
+libros se toma de la subcarpeta `Libros` de esa boveda.
+
+El modo `--todo` solo recorre carpetas ubicadas directamente en la raiz de la
+boveda cuyo nombre termina en `SEMESTRE`. Dentro de ellas procesa notas
+Markdown no ocultas, excluye archivos `MOC*` y no sigue enlaces simbolicos.
+Los PDF fuente no se suben como archivos independientes en ese modo; se sube
+el PDF generado a partir de cada nota Markdown. La sincronizacion de libros
+es aparte: incluye solo archivos PDF de hasta 50 MB y los registra en `books`.
+
+La tarea usa la sesion interactiva de Windows. Google Drive para escritorio
+debe tener montada la unidad y disponible la carpeta fuente cuando se ejecute.
+
+La sincronizacion de `Libros` conserva los PDF de hasta 50 MiB como archivos
+individuales. Si un PDF supera ese limite, `pikepdf` lo optimiza sin reducir
+la resolucion de imagenes; si aun supera el objetivo seguro de 45 MiB, lo
+divide entre paginas en varios PDF validos. Cada parte aparece como una entrada
+independiente, numerada en orden, en la biblioteca. El original en Obsidian no
+se modifica. Si una sola pagina comprimida supera el objetivo, se registra un
+error y no se sube una parte incompleta.
+
+Si se reubican libros desde las carpetas antiguas `Algebra Lineal 1 y 2` o
+`Analisis 1 y 2`, la sincronizacion conserva primero la version en su nueva
+ruta. Al terminar sin errores, elimina de `books` y Storage las entradas
+antiguas cuyo SHA-256 coincide con un PDF vigente en la nueva estructura. No
+elimina libros que no tengan un reemplazo local verificado.
